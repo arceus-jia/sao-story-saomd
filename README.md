@@ -2,7 +2,22 @@
 
 主线、角色故事、活动支线与教程片段。可在线阅读，也可下载后离线打开，支持原声播放和图片查看。
 
-**[打开网站](https://arceus-jia.github.io/sao-story-saomd/) · [一键下载纯文案 ZIP](https://arceus-jia.github.io/sao-story-saomd/downloads/sao-story-saomd-texts.zip) · [剧情阅读](https://arceus-jia.github.io/sao-story-saomd/剧情阅读.html)**
+**[在线阅读](https://arceus-jia.github.io/sao-story-saomd/) · [纯文案目录](https://arceus-jia.github.io/sao-story-saomd/文案目录.html) · [下载纯文案 ZIP](https://arceus-jia.github.io/sao-story-saomd/downloads/sao-story-saomd-texts.zip)**
+
+## 使用方式
+
+### 在线阅读
+
+打开上方网站，选择篇章即可阅读。台词旁的播放按钮可收听原声，点击图片可放大查看。
+
+只看文字时，可进入“纯文案目录”按章节阅读，也可下载纯文案 ZIP，解压后阅读 Markdown 文本。
+
+### 离线阅读
+
+1. [下载完整网站 ZIP](https://github.com/arceus-jia/sao-story-saomd/archive/refs/heads/main.zip)，并完整解压。
+2. 用浏览器打开解压后文件夹内的 `site/index.html`，即可离线阅读、看图和听配音。
+
+请保留整个 `site` 文件夹，转发给朋友时也一起打包。纯文案 ZIP 只含文字，离线看图、听配音需要下载完整网站。
 
 ## 页面预览
 
@@ -12,34 +27,11 @@
 
 ![图片与画册浏览示例](docs/screenshots/gallery.webp)
 
-## 收录内容
+## 阅读说明
 
-- 纯文案：中文 881 份、English 880 份 Markdown；下载包只含这些文档，不含图片、声音或制作数据。
-- 文案来源：包内资源以英文为原文；中文是采用常用角色译名的机器译稿，按大意阅读，少量歧义或残留外语请对照英文。
-- 图片：插图按剧情脚本引用穿插；角色立绘由原图层合成。收录 1,181 张剧情插图、306 张背景和 5,816 个角色立绘资源，未重建移动、镜头与过渡动画。
-- 语音：2,284 个去重原声文件对应 41,553 条正文；9 处未找到音频的原始引用未补配。 部分是短句或语气音，并非整句朗读；没有确认关联的台词不显示播放按钮。
-
-范围限于本次提供的本地游戏资源，不保证覆盖游戏历史上所有版本、更新或服务器下载内容。图文是静态阅读档案，不模拟完整游戏演出。
-
-## 使用方式
-
-在线访问上方网站，按目录选择篇章；有播放按钮的台词可收听原声，图片可点击放大。音频按需加载，不会一次下载整站。
-
-只看文字时，可从网站的“纯文案”进入 HTML 目录按章节阅读，也可点击“下载文案 ZIP”保存原始 Markdown。
-
-离线阅读整个网站时，下载本仓库 ZIP 并完整解压，用浏览器打开 `site/index.html`，保留 `site/assets`、`site/文案` 和 `site/downloads`。不需要安装依赖或启动服务器。
-
-## 仓库与部署
-
-```text
-site/                 网站、阅读所需资源、Markdown 与纯文案下载包
-docs/screenshots/     README 中的真实页面截图
-.github/workflows/   GitHub Pages 静态部署
-```
-
-向 `main` 推送后，GitHub Actions 仅将 `site/` 发布到 Pages。网站使用相对路径，无框架构建、外部字体或 CDN 依赖。修改文件后保持资源路径一致即可。
-
-仓库采用允许清单式 `.gitignore`。原始 APK/游戏包、提取缓存、数据库、数据表、凭据和整个网站的重复打包 ZIP 均不提交。
+- 英文为原文；中文是采用常用角色译名的机器译稿，适合了解剧情大意，有疑问时可对照英文。
+- 部分配音是短句或语气音，并非整句朗读；有播放按钮的台词才可收听原声。
+- 收录范围以现有游戏资源为准，页面未复原原游戏的完整动画与镜头演出。
 
 ## 同系列档案
 
