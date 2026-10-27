@@ -1,0 +1,887 @@
+# SAOMD · English text collection
+
+Extracted from this APK's English resources. No translation or missing dialogue has been added.
+
+[All adventure dialogue](全部剧情.md) · [Character profiles](角色资料.md) · [Missing references](缺失引用说明.md)
+
+- [SAO · \#1 · The World of Swords](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1001_SAO%20%C2%B7%20%231%20%C2%B7%20The%20World%20of%20Swords.md>) — 2 stories
+- [SAO · \#2 · Beater](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1002_SAO%20%C2%B7%20%232%20%C2%B7%20Beater.md>) — 9 stories
+- [SAO · \#3 · The Red-Nosed Reindeer](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1003_SAO%20%C2%B7%20%233%20%C2%B7%20The%20Red-Nosed%20Reindeer.md>) — 14 stories
+- [SAO · \#4 · The Black Swordsman](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1004_SAO%20%C2%B7%20%234%20%C2%B7%20The%20Black%20Swordsman.md>) — 13 stories
+- [SAO · \#5 · Murder in the Safe Zone](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1005_SAO%20%C2%B7%20%235%20%C2%B7%20Murder%20in%20the%20Safe%20Zone.md>) — 11 stories
+- [SAO · \#6 · Illusionary Avenger](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1006_SAO%20%C2%B7%20%236%20%C2%B7%20Illusionary%20Avenger.md>) — 10 stories
+- [SAO · \#7 · The Temperature of the Heart](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1007_SAO%20%C2%B7%20%237%20%C2%B7%20The%20Temperature%20of%20the%20Heart.md>) — 12 stories
+- [SAO · \#8 · The Sword Dance of Black and White](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1008_SAO%20%C2%B7%20%238%20%C2%B7%20The%20Sword%20Dance%20of%20Black%20and%20White.md>) — 11 stories
+- [SAO · \#9 · The Blue-Eyed Demon](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1009_SAO%20%C2%B7%20%239%20%C2%B7%20The%20Blue-Eyed%20Demon.md>) — 10 stories
+- [SAO · \#10 · Crimson Killing Intent](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1010_SAO%20%C2%B7%20%2310%20%C2%B7%20Crimson%20Killing%20Intent.md>) — 10 stories
+- [SAO · \#11 · The Girl of Morning Dew](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1011_SAO%20%C2%B7%20%2311%20%C2%B7%20The%20Girl%20of%20Morning%20Dew.md>) — 11 stories
+- [SAO · \#12 · Yui's Heart](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1012_SAO%20%C2%B7%20%2312%20%C2%B7%20Yui%27s%20Heart.md>) — 7 stories
+- [SAO · \#13 · Edge of Hell's Abyss](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1013_SAO%20%C2%B7%20%2313%20%C2%B7%20Edge%20of%20Hell%27s%20Abyss.md>) — 8 stories
+- [SAO · \#14 · The End of the World](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1014_SAO%20%C2%B7%20%2314%20%C2%B7%20The%20End%20of%20the%20World.md>) — 4 stories
+- [ALO · \#15 · Return](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1015_ALO%20%C2%B7%20%2315%20%C2%B7%20Return.md>) — 1 stories
+- [ALO · \#16 · Land of the Fairies](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1016_ALO%20%C2%B7%20%2316%20%C2%B7%20Land%20of%20the%20Fairies.md>) — 1 stories
+- [ALO · \#17 · Captive Queen](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1017_ALO%20%C2%B7%20%2317%20%C2%B7%20Captive%20Queen.md>) — 7 stories
+- [ALO · \#18 · To the World Tree](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1018_ALO%20%C2%B7%20%2318%20%C2%B7%20To%20the%20World%20Tree.md>) — 8 stories
+- [ALO · \#19 · The Legrue Corridor](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1019_ALO%20%C2%B7%20%2319%20%C2%B7%20The%20Legrue%20Corridor.md>) — 11 stories
+- [ALO · \#20 · General of the Blazing Flame](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1020_ALO%20%C2%B7%20%2320%20%C2%B7%20General%20of%20the%20Blazing%20Flame.md>) — 11 stories
+- [ALO · \#21 · The Truth About Alfheim](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1021_ALO%20%C2%B7%20%2321%20%C2%B7%20The%20Truth%20About%20Alfheim.md>) — 8 stories
+- [ALO · \#22 · The Grand Quest](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1022_ALO%20%C2%B7%20%2322%20%C2%B7%20The%20Grand%20Quest.md>) — 8 stories
+- [ALO · \#23 · Bonds](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1023_ALO%20%C2%B7%20%2323%20%C2%B7%20Bonds.md>) — 8 stories
+- [ALO · \#24 · Gilded Hero](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1024_ALO%20%C2%B7%20%2324%20%C2%B7%20Gilded%20Hero.md>) — 7 stories
+- [ALO · \#25 · The World Seed](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1025_ALO%20%C2%B7%20%2325%20%C2%B7%20The%20World%20Seed.md>) — 2 stories
+- [GGO · \#1 · The World of Guns](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1031_GGO%20%C2%B7%20%231%20%C2%B7%20The%20World%20of%20Guns.md>) — 2 stories
+- [GGO · \#2 · Ice Sniper](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1032_GGO%20%C2%B7%20%232%20%C2%B7%20Ice%20Sniper.md>) — 14 stories
+- [GGO · \#3 · Memories of Fresh Blood](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1033_GGO%20%C2%B7%20%233%20%C2%B7%20Memories%20of%20Fresh%20Blood.md>) — 6 stories
+- [GGO · \#4 · GGO](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1034_GGO%20%C2%B7%20%234%20%C2%B7%20GGO.md>) — 4 stories
+- [GGO · \#5 · Guns and Swords](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1035_GGO%20%C2%B7%20%235%20%C2%B7%20Guns%20and%20Swords.md>) — 5 stories
+- [GGO · \#6 · Showdown in the Wilderness](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1036_GGO%20%C2%B7%20%236%20%C2%B7%20Showdown%20in%20the%20Wilderness.md>) — 12 stories
+- [GGO · \#7 · Crimson Memories](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1037_GGO%20%C2%B7%20%237%20%C2%B7%20Crimson%20Memories.md>) — 5 stories
+- [GGO · \#8 · Bullet of Bullets](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1038_GGO%20%C2%B7%20%238%20%C2%B7%20Bullet%20of%20Bullets.md>) — 5 stories
+- [GGO · \#9 · Death Gun](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1039_GGO%20%C2%B7%20%239%20%C2%B7%20Death%20Gun.md>) — 8 stories
+- [GGO · \#10 · Death Chaser](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1040_GGO%20%C2%B7%20%2310%20%C2%B7%20Death%20Chaser.md>) — 6 stories
+- [GGO · \#11 · What It Means to Be Strong](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1041_GGO%20%C2%B7%20%2311%20%C2%B7%20What%20It%20Means%20to%20Be%20Strong.md>) — 4 stories
+- [GGO · \#12 · Bullet of a Phantom](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1042_GGO%20%C2%B7%20%2312%20%C2%B7%20Bullet%20of%20a%20Phantom.md>) — 8 stories
+- [GGO · \#13 · Phantom Bullet](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1043_GGO%20%C2%B7%20%2313%20%C2%B7%20Phantom%20Bullet.md>) — 10 stories
+- [GGO · \#14 · One Small Step](<%E4%B8%BB%E7%BA%BF%E5%89%A7%E6%83%85/chapter_1044_GGO%20%C2%B7%20%2314%20%C2%B7%20One%20Small%20Step.md>) — 4 stories
+- [Tutorial · Memory Defrag](<%E6%95%99%E7%A8%8B%E4%B8%8E%E5%BA%8F%E7%AB%A0/chapter_3001_Tutorial%20%C2%B7%20Memory%20Defrag.md>) — 3 stories
+- [\[Furinkazan\] Klein](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_14001_%5BFurinkazan%5D%20Klein.md>) — 5 stories
+- [Character 14003](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_14003_Character%2014003.md>) — 5 stories
+- [\[Hero's return\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_14015_%5BHero%27s%20return%5D%20Kirito.md>) — 5 stories
+- [\[Surfer\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_14016_%5BSurfer%5D%20Eugeo.md>) — 5 stories
+- [\[Blue Silver Knight\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_14017_%5BBlue%20Silver%20Knight%5D%20Eugeo.md>) — 5 stories
+- [\[Blue Rose Integrity Knight\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15001_%5BBlue%20Rose%20Integrity%20Knight%5D%20Eugeo.md>) — 5 stories
+- [\[Howl at the Moon\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15002_%5BHowl%20at%20the%20Moon%5D%20Eugeo.md>) — 5 stories
+- [\[Strong Mind\] Klein](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15004_%5BStrong%20Mind%5D%20Klein.md>) — 5 stories
+- [\[Swordsman in the Wilderness\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15006_%5BSwordsman%20in%20the%20Wilderness%5D%20Kirito.md>) — 5 stories
+- [\[Hasty Reindeer\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15008_%5BHasty%20Reindeer%5D%20Eugeo.md>) — 5 stories
+- [\[Fortune comes in at the merry gate\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15010_%5BFortune%20comes%20in%20at%20the%20merry%20gate%5D%20Kirito.md>) — 5 stories
+- [\[Fellowship on the Field\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15015_%5BFellowship%20on%20the%20Field%5D%20Kirito.md>) — 5 stories
+- [\[Black Master Swordman\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15017_%5BBlack%20Master%20Swordman%5D%20Kirito.md>) — 5 stories
+- [\[Unleashed Werewolf\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_15020_%5BUnleashed%20Werewolf%5D%20Eugeo.md>) — 5 stories
+- [\[Trust in Each Other\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16007_%5BTrust%20in%20Each%20Other%5D%20Kirito.md>) — 5 stories
+- [\[Unwavering Commitment\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16008_%5BUnwavering%20Commitment%5D%20Eugeo.md>) — 5 stories
+- [\[AR Sword master\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16010_%5BAR%20Sword%20master%5D%20Kirito.md>) — 5 stories
+- [\[Black Suited Gunner\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16014_%5BBlack%20Suited%20Gunner%5D%20Kirito.md>) — 5 stories
+- [\[Heart of the Sword\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16015_%5BHeart%20of%20the%20Sword%5D%20Kirito.md>) — 5 stories
+- [\[Oath of the Sword\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16016_%5BOath%20of%20the%20Sword%5D%20Eugeo.md>) — 5 stories
+- [\[Strength to Accept the Past\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16017_%5BStrength%20to%20Accept%20the%20Past%5D%20Kirito.md>) — 5 stories
+- [\[Blooming Blue Rose Glacier\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16018_%5BBlooming%20Blue%20Rose%20Glacier%5D%20Eugeo.md>) — 5 stories
+- [\[Future-Slicing Knight\] Bercouli](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16021_%5BFuture-Slicing%20Knight%5D%20Bercouli.md>) — 5 stories
+- [\[Wish for Happiness\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16024_%5BWish%20for%20Happiness%5D%20Eugeo.md>) — 5 stories
+- [\[Figureless Identity\] Joker](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16026_%5BFigureless%20Identity%5D%20Joker.md>) — 5 stories
+- [\[Heart Full of Memories\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16027_%5BHeart%20Full%20of%20Memories%5D%20Eugeo.md>) — 5 stories
+- [\[Ferocious God of the West\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_16037_%5BFerocious%20God%20of%20the%20West%5D%20Kirito.md>) — 5 stories
+- [\[Storm Mage\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24001_%5BStorm%20Mage%5D%20Leafa.md>) — 5 stories
+- [\[Zekken\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24002_%5BZekken%5D%20Yuuki.md>) — 5 stories
+- [\[MHCP-002\] Strea](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24003_%5BMHCP-002%5D%20Strea.md>) — 5 stories
+- [\[Multi-Wielder\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24004_%5BMulti-Wielder%5D%20Rain.md>) — 5 stories
+- [\[Happy Memories\] Sachi](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24012_%5BHappy%20Memories%5D%20Sachi.md>) — 5 stories
+- [\[Unfulfilled Wish\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24014_%5BUnfulfilled%20Wish%5D%20Leafa.md>) — 5 stories
+- [\[Void Runner\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24018_%5BVoid%20Runner%5D%20Leafa.md>) — 5 stories
+- [\[Faroff Fencer\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24024_%5BFaroff%20Fencer%5D%20Suguha.md>) — 5 stories
+- [\[AR Idol\] Yuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24025_%5BAR%20Idol%5D%20Yuna.md>) — 5 stories
+- [\[Angel Cheer\] Yui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24027_%5BAngel%20Cheer%5D%20Yui.md>) — 5 stories
+- [\[Sparkling Teen Idol\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24028_%5BSparkling%20Teen%20Idol%5D%20Leafa.md>) — 5 stories
+- [\[Lightning Dance\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24029_%5BLightning%20Dance%5D%20Asuna.md>) — 5 stories
+- [\[Sakura Romance\] Strea](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24030_%5BSakura%20Romance%5D%20Strea.md>) — 5 stories
+- [\[Parlor Maid\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24031_%5BParlor%20Maid%5D%20Rain.md>) — 5 stories
+- [\[Early Spring Dance\] Argo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24033_%5BEarly%20Spring%20Dance%5D%20Argo.md>) — 5 stories
+- [\[Summer Girl\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24034_%5BSummer%20Girl%5D%20Suguha.md>) — 5 stories
+- [\[Fragrant Olive in June\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24035_%5BFragrant%20Olive%20in%20June%5D%20Alice.md>) — 5 stories
+- [\[The Kiss\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24036_%5BThe%20Kiss%5D%20Leafa.md>) — 5 stories
+- [\[Rainy Season Enjoyment\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24037_%5BRainy%20Season%20Enjoyment%5D%20Leafa.md>) — 5 stories
+- [\[Aries\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24038_%5BAries%5D%20Leafa.md>) — 5 stories
+- [\[All Aboard\] Yui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24039_%5BAll%20Aboard%5D%20Yui.md>) — 5 stories
+- [\[Good Street Vendor\] Lisbeth ](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24040_%5BGood%20Street%20Vendor%5D%20Lisbeth.md>) — 5 stories
+- [\[Tropical dB\] Yuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24041_%5BTropical%20dB%5D%20Yuna.md>) — 5 stories
+- [\[Golden Knight\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24042_%5BGolden%20Knight%5D%20Alice.md>) — 5 stories
+- [\[Radiant First Mate\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24043_%5BRadiant%20First%20Mate%5D%20Leafa.md>) — 5 stories
+- [\[Summer Princess\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_24044_%5BSummer%20Princess%5D%20Alice.md>) — 5 stories
+- [\[The Blade - facing the feelings\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25001_%5BThe%20Blade%20-%20facing%20the%20feelings%5D%20Leafa.md>) — 5 stories
+- [\[Wish Granter\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25002_%5BWish%20Granter%5D%20Yuuki.md>) — 5 stories
+- [\[Fragrant Olive Integrity Knight\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25004_%5BFragrant%20Olive%20Integrity%20Knight%5D%20Alice.md>) — 5 stories
+- [\[Pumpkin Knight\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25005_%5BPumpkin%20Knight%5D%20Alice.md>) — 5 stories
+- [\[Flush of Youth\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25006_%5BFlush%20of%20Youth%5D%20Leafa.md>) — 5 stories
+- [\[Beauty in Secluded Hot Springs\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25007_%5BBeauty%20in%20Secluded%20Hot%20Springs%5D%20Leafa.md>) — 5 stories
+- [\[Excitement on Christmas Eve\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25008_%5BExcitement%20on%20Christmas%20Eve%5D%20Alice.md>) — 5 stories
+- [\[Christmas Miracle\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25009_%5BChristmas%20Miracle%5D%20Yuuki.md>) — 5 stories
+- [\[Ring the Bell\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25010_%5BRing%20the%20Bell%5D%20Alice.md>) — 5 stories
+- [\[Gorgeous Priestess Costume\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25011_%5BGorgeous%20Priestess%20Costume%5D%20Suguha.md>) — 5 stories
+- [\[The Bunny Ace\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25012_%5BThe%20Bunny%20Ace%5D%20Yuuki.md>) — 5 stories
+- [\[Innocent Chocolatier\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25013_%5BInnocent%20Chocolatier%5D%20Yuuki.md>) — 5 stories
+- [\[New Year's Breeze\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25016_%5BNew%20Year%27s%20Breeze%5D%20Yuuki.md>) — 5 stories
+- [\[Angel Tone\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25020_%5BAngel%20Tone%5D%20Silica.md>) — 5 stories
+- [\[Passionate Strumming\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25021_%5BPassionate%20Strumming%5D%20Leafa.md>) — 5 stories
+- [\[Swifty Slash\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25022_%5BSwifty%20Slash%5D%20Leafa.md>) — 5 stories
+- [\[Feels like a big sis\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25023_%5BFeels%20like%20a%20big%20sis%5D%20Yuuki.md>) — 5 stories
+- [\[Flash with Wind\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25025_%5BFlash%20with%20Wind%5D%20Asuna.md>) — 5 stories
+- [\[Illusion Killer\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25026_%5BIllusion%20Killer%5D%20Sinon.md>) — 5 stories
+- [\[Valkyrie\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25033_%5BValkyrie%5D%20Alice.md>) — 5 stories
+- [\[Deceiver of the Gods\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25034_%5BDeceiver%20of%20the%20Gods%5D%20Yuuki.md>) — 5 stories
+- [\[Zekken in the Wilderness\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_25035_%5BZekken%20in%20the%20Wilderness%5D%20Yuuki.md>) — 5 stories
+- [\[A Gale Blows Via Time & Space\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26002_%5BA%20Gale%20Blows%20Via%20Time%20%26%20Space%5D%20Leafa.md>) — 5 stories
+- [\[Zekken with Feelings\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26003_%5BZekken%20with%20Feelings%5D%20Yuuki.md>) — 5 stories
+- [\[Baleful Karasu Tengu\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26004_%5BBaleful%20Karasu%20Tengu%5D%20Yuuki.md>) — 5 stories
+- [\[Kind Apprentice Swordsman\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26008_%5BKind%20Apprentice%20Swordsman%5D%20Ronie.md>) — 5 stories
+- [\[Devoted Apprentice Swordsman\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26009_%5BDevoted%20Apprentice%20Swordsman%5D%20Tiese.md>) — 5 stories
+- [\[Brilliant Gift\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26010_%5BBrilliant%20Gift%5D%20Yuuki.md>) — 5 stories
+- [\[Orderly Knight\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26011_%5BOrderly%20Knight%5D%20Alice.md>) — 5 stories
+- [\[Amaterasu the Sun Goddess\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26012_%5BAmaterasu%20the%20Sun%20Goddess%5D%20Suguha.md>) — 5 stories
+- [\[Singing Voice in the Battle\] Yuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26014_%5BSinging%20Voice%20in%20the%20Battle%5D%20Yuna.md>) — 5 stories
+- [\[Sweet Romance\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26018_%5BSweet%20Romance%5D%20Tiese.md>) — 5 stories
+- [\[One Summer's Memory\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26019_%5BOne%20Summer%27s%20Memory%5D%20Ronie.md>) — 5 stories
+- [\[Midsummer's Innocence\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26020_%5BMidsummer%27s%20Innocence%5D%20Tiese.md>) — 5 stories
+- [\[Find the Prince\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26021_%5BFind%20the%20Prince%5D%20Silica.md>) — 5 stories
+- [\[Instant Attack\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26022_%5BInstant%20Attack%5D%20Yuuki.md>) — 5 stories
+- [\[Revived Crest Light\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26025_%5BRevived%20Crest%20Light%5D%20Asuna.md>) — 5 stories
+- [\[Elegant Eternal Summer Knight\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26026_%5BElegant%20Eternal%20Summer%20Knight%5D%20Alice.md>) — 5 stories
+- [\[Together For Eternity\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26027_%5BTogether%20For%20Eternity%5D%20Yuuki.md>) — 5 stories
+- [\[Together Forevermore\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26028_%5BTogether%20Forevermore%5D%20Leafa.md>) — 5 stories
+- [\[Grand Blossoming\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26032_%5BGrand%20Blossoming%5D%20Alice.md>) — 5 stories
+- [\[Wandering Integrity Knight\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26033_%5BWandering%20Integrity%20Knight%5D%20Alice.md>) — 5 stories
+- [\[Illusive Sylph\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26034_%5BIllusive%20Sylph%5D%20Leafa.md>) — 5 stories
+- [\[Thinking of You\] Sortiliena](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26036_%5BThinking%20of%20You%5D%20Sortiliena.md>) — 5 stories
+- [\[Mentee in Love\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26037_%5BMentee%20in%20Love%5D%20Ronie.md>) — 5 stories
+- [\[Linking Feelings Sword God\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26039_%5BLinking%20Feelings%20Sword%20God%5D%20Yuuki.md>) — 5 stories
+- [\[VR World Emperor\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26040_%5BVR%20World%20Emperor%5D%20Alice.md>) — 5 stories
+- [\[Flame Blade Wielding Demon\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26042_%5BFlame%20Blade%20Wielding%20Demon%5D%20Asuna.md>) — 5 stories
+- [\[Earth-Rupturing White Dragon\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26044_%5BEarth-Rupturing%20White%20Dragon%5D%20Yuuki.md>) — 5 stories
+- [\[Knight's Pride\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26045_%5BKnight%27s%20Pride%5D%20Alice.md>) — 5 stories
+- [\[Wrapped in Divine Wind\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26052_%5BWrapped%20in%20Divine%20Wind%5D%20Leafa.md>) — 5 stories
+- [\[Invincible Journey\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26053_%5BInvincible%20Journey%5D%20Yuuki.md>) — 5 stories
+- [\[JUSTICE\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26059_%5BJUSTICE%5D%20Leafa.md>) — 5 stories
+- [\[Wind Caressing the Earth\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_26062_%5BWind%20Caressing%20the%20Earth%5D%20Leafa.md>) — 5 stories
+- [\[Black Swordsman\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_34001_%5BBlack%20Swordsman%5D%20Kirito.md>) — 5 stories
+- [\[Skill Connect\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_34002_%5BSkill%20Connect%5D%20Kirito.md>) — 5 stories
+- [\[Tropical Beach Boy\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_34008_%5BTropical%20Beach%20Boy%5D%20Kirito.md>) — 5 stories
+- [\[Lofty Captain\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_34009_%5BLofty%20Captain%5D%20Kirito.md>) — 5 stories
+- [\[The Will -transcending the system\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_35001_%5BThe%20Will%20-transcending%20the%20system%5D%20Kirito.md>) — 5 stories
+- [\[Offer Lifeblood\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_35002_%5BOffer%20Lifeblood%5D%20Kirito.md>) — 5 stories
+- [\[Guide in Snow\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_35004_%5BGuide%20in%20Snow%5D%20Kirito.md>) — 5 stories
+- [\[The King of Poker\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_35006_%5BThe%20King%20of%20Poker%5D%20Kirito.md>) — 5 stories
+- [\[Orgulous God\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_35009_%5BOrgulous%20God%5D%20Kirito.md>) — 5 stories
+- [\[Ultrafast Dualblades\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36001_%5BUltrafast%20Dualblades%5D%20Kirito.md>) — 5 stories
+- [\[Gilded Hero\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36003_%5BGilded%20Hero%5D%20Kirito.md>) — 5 stories
+- [\[To the World's Core\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36004_%5BTo%20the%20World%27s%20Core%5D%20Kirito.md>) — 5 stories
+- [\[A Duty to Honor\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36006_%5BA%20Duty%20to%20Honor%5D%20Kirito.md>) — 5 stories
+- [\[Black Sword Integrity Knight\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36008_%5BBlack%20Sword%20Integrity%20Knight%5D%20Kirito.md>) — 5 stories
+- [\[Linking Wills Sword God\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36009_%5BLinking%20Wills%20Sword%20God%5D%20Kirito.md>) — 5 stories
+- [\[VR World Fool\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36010_%5BVR%20World%20Fool%5D%20Kirito.md>) — 5 stories
+- [\[Hero Rises\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36011_%5BHero%20Rises%5D%20Kirito.md>) — 5 stories
+- [\[THE WORLD\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36015_%5BTHE%20WORLD%5D%20Kirito.md>) — 5 stories
+- [\[Diligent Gentleman\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_36016_%5BDiligent%20Gentleman%5D%20Eugeo.md>) — 5 stories
+- [\[Raindrops Girl\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_44001_%5BRaindrops%20Girl%5D%20Rain.md>) — 5 stories
+- [\[Celestial Dancer\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_44002_%5BCelestial%20Dancer%5D%20Yuuki.md>) — 5 stories
+- [\[Blossom Shower\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_44003_%5BBlossom%20Shower%5D%20Rain.md>) — 5 stories
+- [\[Personal Santa\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_44004_%5BPersonal%20Santa%5D%20Rain.md>) — 5 stories
+- [\[Cool Drum Beats\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_45002_%5BCool%20Drum%20Beats%5D%20Rain.md>) — 5 stories
+- [\[Fluttering Petals\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_45003_%5BFluttering%20Petals%5D%20Rain.md>) — 5 stories
+- [\[Summer Splash\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_45004_%5BSummer%20Splash%5D%20Yuuki.md>) — 5 stories
+- [\[Dolphin Jumper\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_45006_%5BDolphin%20Jumper%5D%20Rain.md>) — 5 stories
+- [\[Susanoo\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46001_%5BSusanoo%5D%20Yuuki.md>) — 5 stories
+- [\[Midnight Dream\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46002_%5BMidnight%20Dream%5D%20Yuuki.md>) — 5 stories
+- [\[Tiny Big Sister\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46003_%5BTiny%20Big%20Sister%5D%20Rain.md>) — 5 stories
+- [\[Dual Wielding Swordsman\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46004_%5BDual%20Wielding%20Swordsman%5D%20Rain.md>) — 5 stories
+- [\[Photon Sword Dancing in the Wind\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46005_%5BPhoton%20Sword%20Dancing%20in%20the%20Wind%5D%20Rain.md>) — 5 stories
+- [\[Mischievous EternalSummer Warrior\]Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46006_%5BMischievous%20EternalSummer%20Warrior%5DYuuki.md>) — 5 stories
+- [\[Shimmering Dancer\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46009_%5BShimmering%20Dancer%5D%20Yuuki.md>) — 5 stories
+- [\[A Steamy View\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46010_%5BA%20Steamy%20View%5D%20Alice.md>) — 5 stories
+- [\[Integrity Knight Zekken\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46011_%5BIntegrity%20Knight%20Zekken%5D%20Yuuki.md>) — 5 stories
+- [\[Rose Bearing Beauty\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46013_%5BRose%20Bearing%20Beauty%5D%20Rain.md>) — 5 stories
+- [\[Vampire of Nobility\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46014_%5BVampire%20of%20Nobility%5D%20Alice.md>) — 5 stories
+- [\[Wonderful Present\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46015_%5BWonderful%20Present%5D%20Asuna.md>) — 5 stories
+- [\[Snow Day Present\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46016_%5BSnow%20Day%20Present%5D%20Rain.md>) — 5 stories
+- [\[Battle-Hardened Pirate Maiden\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46017_%5BBattle-Hardened%20Pirate%20Maiden%5D%20Alice.md>) — 5 stories
+- [\[Diligent Subculture Maid\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_46019_%5BDiligent%20Subculture%20Maid%5D%20Rain.md>) — 5 stories
+- [\[Lightning Flash\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64001_%5BLightning%20Flash%5D%20Asuna.md>) — 5 stories
+- [\[Enchanting Love\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64008_%5BEnchanting%20Love%5D%20Asuna.md>) — 5 stories
+- [\[Made With Love\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64009_%5BMade%20With%20Love%5D%20Asuna.md>) — 5 stories
+- [\[Shinobi Slash\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64010_%5BShinobi%20Slash%5D%20Asuna.md>) — 5 stories
+- [\[Heart of Confront\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64012_%5BHeart%20of%20Confront%5D%20Asuna.md>) — 5 stories
+- [\[Glittering Youth\] Strea](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64017_%5BGlittering%20Youth%5D%20Strea.md>) — 5 stories
+- [\[Natural Pop Star\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64018_%5BNatural%20Pop%20Star%5D%20Yuuki.md>) — 5 stories
+- [\[Pearl Tears\] Yui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64019_%5BPearl%20Tears%5D%20Yui.md>) — 5 stories
+- [\[Mellow Maid\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64020_%5BMellow%20Maid%5D%20Leafa.md>) — 5 stories
+- [\[Hide-and-seek Girl\] Sphica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64021_%5BHide-and-seek%20Girl%5D%20Sphica.md>) — 5 stories
+- [\[Pudding Rather Than Praise\] Premier](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64022_%5BPudding%20Rather%20Than%20Praise%5D%20Premier.md>) — 5 stories
+- [\[Promise at that Time\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64025_%5BPromise%20at%20that%20Time%5D%20Asuna.md>) — 5 stories
+- [\[Gemini\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64026_%5BGemini%5D%20Yuuki.md>) — 5 stories
+- [\[Time of Injection\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64027_%5BTime%20of%20Injection%5D%20Asuna.md>) — 5 stories
+- [\[Sunny Summer Girl\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64028_%5BSunny%20Summer%20Girl%5D%20Yuuki.md>) — 5 stories
+- [\[Starlight Prayer\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64029_%5BStarlight%20Prayer%5D%20Silica.md>) — 5 stories
+- [\[Illuminating Weeping Willow\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64030_%5BIlluminating%20Weeping%20Willow%5D%20Asuna.md>) — 5 stories
+- [\[Healing Beauty\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64031_%5BHealing%20Beauty%5D%20Asuna.md>) — 5 stories
+- [\[Summer Night Shout\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64032_%5BSummer%20Night%20Shout%5D%20Leafa.md>) — 5 stories
+- [\[Gorgeous Quartermaster\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64033_%5BGorgeous%20Quartermaster%5D%20Asuna.md>) — 5 stories
+- [\[Shamisen Rock\] Premiere](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_64037_%5BShamisen%20Rock%5D%20Premiere.md>) — 5 stories
+- [\[The Will - changing the fate\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65001_%5BThe%20Will%20-%20changing%20the%20fate%5D%20Asuna.md>) — 5 stories
+- [\[Heartful Water fairy\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65002_%5BHeartful%20Water%20fairy%5D%20Asuna.md>) — 5 stories
+- [\[Sweet Monster\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65003_%5BSweet%20Monster%5D%20Leafa.md>) — 5 stories
+- [\[Reach the Finish Line\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65004_%5BReach%20the%20Finish%20Line%5D%20Asuna.md>) — 5 stories
+- [\[The Glossy Goddess\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65005_%5BThe%20Glossy%20Goddess%5D%20Asuna.md>) — 5 stories
+- [\[Gift from Santa\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65007_%5BGift%20from%20Santa%5D%20Asuna.md>) — 5 stories
+- [\[Votive Prayers\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65008_%5BVotive%20Prayers%5D%20Asuna.md>) — 5 stories
+- [\[Foxy Shrine Maiden\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65009_%5BFoxy%20Shrine%20Maiden%5D%20Asuna.md>) — 5 stories
+- [\[The Queen of Hearts\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65011_%5BThe%20Queen%20of%20Hearts%5D%20Asuna.md>) — 5 stories
+- [\[Affectionate Chocolatier\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65012_%5BAffectionate%20Chocolatier%5D%20Asuna.md>) — 5 stories
+- [\[Foxy Beauty\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65016_%5BFoxy%20Beauty%5D%20Asuna.md>) — 5 stories
+- [\[Sweet Vocals\] Seven](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65018_%5BSweet%20Vocals%5D%20Seven.md>) — 5 stories
+- [\[Nimble Slash\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65022_%5BNimble%20Slash%5D%20Asuna.md>) — 5 stories
+- [\[Unrestrained Emotion\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65023_%5BUnrestrained%20Emotion%5D%20Asuna.md>) — 5 stories
+- [\[Sparkling Zekken\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65024_%5BSparkling%20Zekken%5D%20Yuuki.md>) — 5 stories
+- [\[Ocean Resort\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65025_%5BOcean%20Resort%5D%20Asuna.md>) — 5 stories
+- [\[Goddess of Fertility\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65029_%5BGoddess%20of%20Fertility%5D%20Asuna.md>) — 5 stories
+- [\[Dolphin Rider\] Seven](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_65030_%5BDolphin%20Rider%5D%20Seven.md>) — 5 stories
+- [\[Linked to the Future\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66001_%5BLinked%20to%20the%20Future%5D%20Asuna.md>) — 5 stories
+- [\[Swordsman of Water\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66002_%5BSwordsman%20of%20Water%5D%20Asuna.md>) — 5 stories
+- [\[Beautiful Monster\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66003_%5BBeautiful%20Monster%5D%20Alice.md>) — 5 stories
+- [\[Devildom Swordsmith\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66004_%5BDevildom%20Swordsmith%5D%20Lisbeth.md>) — 5 stories
+- [\[Joyful Wedding\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66005_%5BJoyful%20Wedding%5D%20Asuna.md>) — 5 stories
+- [\[The Sword of Hope\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66006_%5BThe%20Sword%20of%20Hope%5D%20Asuna.md>) — 5 stories
+- [\[Faith in Heart\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66007_%5BFaith%20in%20Heart%5D%20Asuna.md>) — 5 stories
+- [\[Warmth of Your Hand\] Yuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66008_%5BWarmth%20of%20Your%20Hand%5D%20Yuna.md>) — 5 stories
+- [\[Ingenuous Hina Doll\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66009_%5BIngenuous%20Hina%20Doll%5D%20Alice.md>) — 5 stories
+- [\[Mellow Love\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66011_%5BMellow%20Love%5D%20Leafa.md>) — 5 stories
+- [\[Leading Swordsman\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66013_%5BLeading%20Swordsman%5D%20Asuna.md>) — 5 stories
+- [\[Captured Princess\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66014_%5BCaptured%20Princess%5D%20Asuna.md>) — 5 stories
+- [\[Lovely Eternal Summer Warrior\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66016_%5BLovely%20Eternal%20Summer%20Warrior%5D%20Asuna.md>) — 5 stories
+- [\[Conqueror of Love\] Administrator](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66017_%5BConqueror%20of%20Love%5D%20Administrator.md>) — 5 stories
+- [\[Heir to the Sword\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66018_%5BHeir%20to%20the%20Sword%5D%20Asuna.md>) — 5 stories
+- [\[Feelings Under the Helmet\] Fanatio](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66022_%5BFeelings%20Under%20the%20Helmet%5D%20Fanatio.md>) — 5 stories
+- [\[Divine Sword of the Guardian\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66023_%5BDivine%20Sword%20of%20the%20Guardian%5D%20Asuna.md>) — 5 stories
+- [\[Integrity Knight Lightning Flash\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66025_%5BIntegrity%20Knight%20Lightning%20Flash%5D%20Asuna.md>) — 5 stories
+- [\[Plenty of Fortune\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66026_%5BPlenty%20of%20Fortune%5D%20Ronie.md>) — 5 stories
+- [\[Divine Flash\] Makoto](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66027_%5BDivine%20Flash%5D%20Makoto.md>) — 5 stories
+- [\[Linking Bonds Sword God\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66028_%5BLinking%20Bonds%20Sword%20God%5D%20Asuna.md>) — 5 stories
+- [\[VR World Empress\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66030_%5BVR%20World%20Empress%5D%20Asuna.md>) — 5 stories
+- [\[Starry-Eyed Maiden\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66034_%5BStarry-Eyed%20Maiden%5D%20Ronie.md>) — 5 stories
+- [\[Tropical Time\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66037_%5BTropical%20Time%5D%20Asuna.md>) — 5 stories
+- [\[Power to Save\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66039_%5BPower%20to%20Save%5D%20Asuna.md>) — 5 stories
+- [\[Unstoppable Friendship\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66040_%5BUnstoppable%20Friendship%5D%20Asuna.md>) — 5 stories
+- [\[Charming Pumpkin Maiden\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66042_%5BCharming%20Pumpkin%20Maiden%5D%20Ronie.md>) — 5 stories
+- [\[Alluring Black Cat\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66043_%5BAlluring%20Black%20Cat%5D%20Tiese.md>) — 5 stories
+- [\[Serene Goddess of the East\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66046_%5BSerene%20Goddess%20of%20the%20East%5D%20Ronie.md>) — 5 stories
+- [\[Pure Heart\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66047_%5BPure%20Heart%5D%20Ronie.md>) — 5 stories
+- [\[Love All-Encompassing\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66048_%5BLove%20All-Encompassing%5D%20Asuna.md>) — 5 stories
+- [\[Big Sister Energy\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_66050_%5BBig%20Sister%20Energy%5D%20Lisbeth.md>) — 5 stories
+- [\[Dragon Tamer\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84001_%5BDragon%20Tamer%5D%20Silica.md>) — 5 stories
+- [\[Treasure Hunter\] Philia](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84002_%5BTreasure%20Hunter%5D%20Philia.md>) — 5 stories
+- [\[Fairy Dragon Tamer\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84003_%5BFairy%20Dragon%20Tamer%5D%20Silica.md>) — 5 stories
+- [\[Pole and Line Fishing\] Sima](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84005_%5BPole%20and%20Line%20Fishing%5D%20Sima.md>) — 5 stories
+- [\[Platonic Love\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84015_%5BPlatonic%20Love%5D%20Silica.md>) — 5 stories
+- [\[Umbral Flight\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84017_%5BUmbral%20Flight%5D%20Yuuki.md>) — 5 stories
+- [\[Foxy Priestess\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84018_%5BFoxy%20Priestess%5D%20Silica.md>) — 5 stories
+- [\[Augmented Tamer\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84022_%5BAugmented%20Tamer%5D%20Silica.md>) — 5 stories
+- [\[Victorious Girl\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84023_%5BVictorious%20Girl%5D%20Sinon.md>) — 5 stories
+- [\[Young Idol\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84024_%5BYoung%20Idol%5D%20Silica.md>) — 5 stories
+- [\[Ephemeral Feelings\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84025_%5BEphemeral%20Feelings%5D%20Leafa.md>) — 5 stories
+- [\[Omniscient Maid\] Seven](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84026_%5BOmniscient%20Maid%5D%20Seven.md>) — 5 stories
+- [\[Flower Peach Baby\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84027_%5BFlower%20Peach%20Baby%5D%20Silica.md>) — 5 stories
+- [\[Pure Hunter Soul\] Philia](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84028_%5BPure%20Hunter%20Soul%5D%20Philia.md>) — 5 stories
+- [\[Blessed Breath\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84029_%5BBlessed%20Breath%5D%20Silica.md>) — 5 stories
+- [\[Attention Please\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84030_%5BAttention%20Please%5D%20Silica.md>) — 5 stories
+- [\[Tropical Lover\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84031_%5BTropical%20Lover%5D%20Asuna.md>) — 5 stories
+- [\[Promise of Reunion\] Philia](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84032_%5BPromise%20of%20Reunion%5D%20Philia.md>) — 5 stories
+- [\[Dusk Lespedeza\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84033_%5BDusk%20Lespedeza%5D%20Suguha.md>) — 5 stories
+- [\[Sunflower Girl\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84034_%5BSunflower%20Girl%5D%20Silica.md>) — 5 stories
+- [\[Intuitive Navigator\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_84035_%5BIntuitive%20Navigator%5D%20Yuuki.md>) — 5 stories
+- [\[Ingenuous Guardian\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85001_%5BIngenuous%20Guardian%5D%20Silica.md>) — 5 stories
+- [\[Witchy Kitty\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85002_%5BWitchy%20Kitty%5D%20Silica.md>) — 5 stories
+- [\[Go for the Top\] Yui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85003_%5BGo%20for%20the%20Top%5D%20Yui.md>) — 5 stories
+- [\[Autumn Leaf Bath Beauty\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85004_%5BAutumn%20Leaf%20Bath%20Beauty%5D%20Silica.md>) — 5 stories
+- [\[Holy Tamer\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85005_%5BHoly%20Tamer%5D%20Silica.md>) — 5 stories
+- [\[Auspicious Blue Sky\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85006_%5BAuspicious%20Blue%20Sky%5D%20Silica.md>) — 5 stories
+- [\[Lovely  Chocolatier\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85007_%5BLovely%20%20Chocolatier%5D%20Silica.md>) — 5 stories
+- [\[Cute Bunny\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85010_%5BCute%20Bunny%5D%20Sinon.md>) — 5 stories
+- [\[Keep Trying\] Yui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85011_%5BKeep%20Trying%5D%20Yui.md>) — 5 stories
+- [\[I'm not a kid\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85012_%5BI%27m%20not%20a%20kid%5D%20Asuna.md>) — 5 stories
+- [\[Unrequited Love\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85013_%5BUnrequited%20Love%5D%20Suguha.md>) — 5 stories
+- [\[Tropical Fruit\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_85016_%5BTropical%20Fruit%5D%20Silica.md>) — 5 stories
+- [\[Baleful Magic Swordsman\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86002_%5BBaleful%20Magic%20Swordsman%5D%20Leafa.md>) — 5 stories
+- [\[Hot Spring Angel\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86004_%5BHot%20Spring%20Angel%5D%20Asuna.md>) — 5 stories
+- [\[The Courage to Surmount\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86005_%5BThe%20Courage%20to%20Surmount%5D%20Silica.md>) — 5 stories
+- [\[Tamer of Dragon Den \] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86006_%5BTamer%20of%20Dragon%20Den%20%5D%20Silica.md>) — 5 stories
+- [\[Milky Angel\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86008_%5BMilky%20Angel%5D%20Asuna.md>) — 5 stories
+- [\[Ice Magic Blade\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86009_%5BIce%20Magic%20Blade%5D%20Yuuki.md>) — 5 stories
+- [\[Enchanting Eternal Summer Warrior\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86010_%5BEnchanting%20Eternal%20Summer%20Warrior%5D%20Leafa.md>) — 5 stories
+- [\[Treading A New Path\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86011_%5BTreading%20A%20New%20Path%5D%20Silica.md>) — 5 stories
+- [\[Rosy Cheeks\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86013_%5BRosy%20Cheeks%5D%20Tiese.md>) — 5 stories
+- [\[Prayers for Good Heath\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86014_%5BPrayers%20for%20Good%20Heath%5D%20Alice.md>) — 5 stories
+- [\[Cat's Fierce Gaze\] Panther](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86015_%5BCat%27s%20Fierce%20Gaze%5D%20Panther.md>) — 5 stories
+- [\[Bashful Bunny\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86016_%5BBashful%20Bunny%5D%20Silica.md>) — 5 stories
+- [\[Undying Love\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86017_%5BUndying%20Love%5D%20Tiese.md>) — 5 stories
+- [\[Resort Life\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86018_%5BResort%20Life%5D%20Yuuki.md>) — 5 stories
+- [\[Bewitching Sorceress\] Sortiliena](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86021_%5BBewitching%20Sorceress%5D%20Sortiliena.md>) — 5 stories
+- [\[Lovely Holiday Dress\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86022_%5BLovely%20Holiday%20Dress%5D%20Yuuki.md>) — 5 stories
+- [\[Cleansing New Year's Game\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86023_%5BCleansing%20New%20Year%27s%20Game%5D%20Sinon.md>) — 5 stories
+- [\[THE CHARIOT\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86024_%5BTHE%20CHARIOT%5D%20Sinon.md>) — 5 stories
+- [\[Cute Baby Sister Maid\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_86027_%5BCute%20Baby%20Sister%20Maid%5D%20Silica.md>) — 5 stories
+- [\[Brawny Axeman\] Agil](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_94001_%5BBrawny%20Axeman%5D%20Agil.md>) — 5 stories
+- [\[Band Together\] Agil](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_95001_%5BBand%20Together%5D%20Agil.md>) — 5 stories
+- [\[Lightning Emblem\] Skull](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_96001_%5BLightning%20Emblem%5D%20Skull.md>) — 5 stories
+- [\[Mace Master\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104001_%5BMace%20Master%5D%20Lisbeth.md>) — 5 stories
+- [\[Fairy Blacksmith\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104002_%5BFairy%20Blacksmith%5D%20Lisbeth.md>) — 5 stories
+- [\[Bringer of Spring\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104012_%5BBringer%20of%20Spring%5D%20Lisbeth.md>) — 5 stories
+- [\[Queen of chef\] Rechka](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104013_%5BQueen%20of%20chef%5D%20Rechka.md>) — 5 stories
+- [\[Dark Dancer\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104016_%5BDark%20Dancer%5D%20Lisbeth.md>) — 5 stories
+- [\[Efficient Smith\] Lizbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104018_%5BEfficient%20Smith%5D%20Lizbeth.md>) — 5 stories
+- [\[Shouting Cheers\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104020_%5BShouting%20Cheers%5D%20Silica.md>) — 5 stories
+- [\[Fascinating MC Performer\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104021_%5BFascinating%20MC%20Performer%5D%20Lisbeth.md>) — 5 stories
+- [\[My Little Lover\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104022_%5BMy%20Little%20Lover%5D%20Silica.md>) — 5 stories
+- [\[Fledgling Tweeny\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104023_%5BFledgling%20Tweeny%5D%20Yuuki.md>) — 5 stories
+- [\[Born in Sakura Season\] Yui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104024_%5BBorn%20in%20Sakura%20Season%5D%20Yui.md>) — 5 stories
+- [\[Smile on Waterfront\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104025_%5BSmile%20on%20Waterfront%5D%20Lisbeth.md>) — 5 stories
+- [\[Bouquet Toss\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104026_%5BBouquet%20Toss%5D%20Yuuki.md>) — 5 stories
+- [\[Genius Creator\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104027_%5BGenius%20Creator%5D%20Yuuki.md>) — 5 stories
+- [Character 104028](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104028_Character%20104028.md>) — 5 stories
+- [\[Summer Sunshine\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_104029_%5BSummer%20Sunshine%5D%20Lisbeth.md>) — 5 stories
+- [\[Vampire in Love\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105001_%5BVampire%20in%20Love%5D%20Yuuki.md>) — 5 stories
+- [\[Harmony Keeper\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105003_%5BHarmony%20Keeper%5D%20Lisbeth.md>) — 5 stories
+- [\[Thoughts on Snowfall\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105004_%5BThoughts%20on%20Snowfall%5D%20Lisbeth.md>) — 5 stories
+- [\[Fly a Shuttlecock with My Heart\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105005_%5BFly%20a%20Shuttlecock%20with%20My%20Heart%5D%20Lisbeth.md>) — 5 stories
+- [\[Pure Hearted Chocolatier\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105007_%5BPure%20Hearted%20Chocolatier%5D%20Lisbeth.md>) — 5 stories
+- [\[Groovy Sound\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105010_%5BGroovy%20Sound%5D%20Lisbeth.md>) — 5 stories
+- [\[Hopeful Smile\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105011_%5BHopeful%20Smile%5D%20Lisbeth.md>) — 5 stories
+- [\[Shine Parasol\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_105012_%5BShine%20Parasol%5D%20Lisbeth.md>) — 5 stories
+- [\[Fiery Ogre Girl\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_106002_%5BFiery%20Ogre%20Girl%5D%20Lisbeth.md>) — 5 stories
+- [\[The Strength of Friendship\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_106003_%5BThe%20Strength%20of%20Friendship%5D%20Lisbeth.md>) — 5 stories
+- [\[Tomboy Cat Fairy\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_106005_%5BTomboy%20Cat%20Fairy%5D%20Sinon.md>) — 5 stories
+- [\[Rescuing A Friend\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_106007_%5BRescuing%20A%20Friend%5D%20Lisbeth.md>) — 5 stories
+- [\[Judge's Iron Hammer\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_106009_%5BJudge%27s%20Iron%20Hammer%5D%20Lisbeth.md>) — 5 stories
+- [\[Earth-Shattering Beast\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_106010_%5BEarth-Shattering%20Beast%5D%20Lisbeth.md>) — 5 stories
+- [\[Vivacious Girl\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_106014_%5BVivacious%20Girl%5D%20Yuuki.md>) — 5 stories
+- [\[Goddess of Death\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_124001_%5BGoddess%20of%20Death%5D%20Sinon.md>) — 5 stories
+- [\[Progressive Gunner\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_124009_%5BProgressive%20Gunner%5D%20Sinon.md>) — 5 stories
+- [\[Dangerous Kiss\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_124010_%5BDangerous%20Kiss%5D%20Sinon.md>) — 5 stories
+- [\[Novice Police\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_124011_%5BNovice%20Police%5D%20Sinon.md>) — 5 stories
+- [\[Fiery Morning Glory\] Sinon ](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_124012_%5BFiery%20Morning%20Glory%5D%20Sinon.md>) — 5 stories
+- [\[Mischievous Summer Chick\] Sinon ](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_124013_%5BMischievous%20Summer%20Chick%5D%20Sinon.md>) — 5 stories
+- [\[Great Sniper on the Lookout\] Sinon ](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_124014_%5BGreat%20Sniper%20on%20the%20Lookout%5D%20Sinon.md>) — 5 stories
+- [\[Spider Witch\] Sinon ](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_125001_%5BSpider%20Witch%5D%20Sinon.md>) — 5 stories
+- [\[Sniper in Love\] Sinon ](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_125002_%5BSniper%20in%20Love%5D%20Sinon.md>) — 5 stories
+- [\[Perfect Play\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_125005_%5BPerfect%20Play%5D%20Sinon.md>) — 5 stories
+- [\[Leaning on My Fellow Soldier\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_125007_%5BLeaning%20on%20My%20Fellow%20Soldier%5D%20Sinon.md>) — 5 stories
+- [\[Magical Bullet\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_125008_%5BMagical%20Bullet%5D%20Leafa.md>) — 5 stories
+- [\[Sparkling Gunner\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_125009_%5BSparkling%20Gunner%5D%20Sinon.md>) — 5 stories
+- [\[Twinkle Hearts\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126001_%5BTwinkle%20Hearts%5D%20Silica.md>) — 5 stories
+- [\[Tie the Knot\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126003_%5BTie%20the%20Knot%5D%20Asuna.md>) — 5 stories
+- [\[Hidden Passion\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126004_%5BHidden%20Passion%5D%20Sinon.md>) — 5 stories
+- [\[Winning Procedure\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126005_%5BWinning%20Procedure%5D%20Sinon.md>) — 5 stories
+- [\[Strength to Change Oneself\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126006_%5BStrength%20to%20Change%20Oneself%5D%20Sinon.md>) — 5 stories
+- [\[VR World High Priestess\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126007_%5BVR%20World%20High%20Priestess%5D%20Sinon.md>) — 5 stories
+- [\[Condemning Trigger\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126008_%5BCondemning%20Trigger%5D%20Sinon.md>) — 5 stories
+- [\[Sweet School Beauty\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_126012_%5BSweet%20School%20Beauty%5D%20Asuna.md>) — 5 stories
+- [\[Cool-Headed Sniper\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144001_%5BCool-Headed%20Sniper%5D%20Sinon.md>) — 5 stories
+- [\[Flowering Valkyrie\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144004_%5BFlowering%20Valkyrie%5D%20Sinon.md>) — 5 stories
+- [\[Choleric Cupid\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144006_%5BCholeric%20Cupid%5D%20Sinon.md>) — 5 stories
+- [\[Cheer of Love\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144008_%5BCheer%20of%20Love%5D%20Asuna.md>) — 5 stories
+- [\[Free Style Artist\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144009_%5BFree%20Style%20Artist%5D%20Sinon.md>) — 5 stories
+- [\[Stillroom Maid\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144010_%5BStillroom%20Maid%5D%20Sinon.md>) — 5 stories
+- [\[blossom of youth\] Philia](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144011_%5Bblossom%20of%20youth%5D%20Philia.md>) — 5 stories
+- [\[Stiletto heel Bride\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144012_%5BStiletto%20heel%20Bride%5D%20Sinon.md>) — 5 stories
+- [\[Indoor Gamer\] Sakuya](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_144013_%5BIndoor%20Gamer%5D%20Sakuya.md>) — 5 stories
+- [\[The Archer - overcoming the past\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_145001_%5BThe%20Archer%20-%20overcoming%20the%20past%5D%20Sinon.md>) — 5 stories
+- [\[Snow Sniper\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_145002_%5BSnow%20Sniper%5D%20Sinon.md>) — 5 stories
+- [\[Swing a Battledore with Love\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_145003_%5BSwing%20a%20Battledore%20with%20Love%5D%20Sinon.md>) — 5 stories
+- [\[The Wild Joker\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_145004_%5BThe%20Wild%20Joker%5D%20Sinon.md>) — 5 stories
+- [\[Youthful Days\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_145007_%5BYouthful%20Days%5D%20Asuna.md>) — 5 stories
+- [\[Sky Bow\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_145008_%5BSky%20Bow%5D%20Sinon.md>) — 5 stories
+- [\[The World Linking Arrow\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146001_%5BThe%20World%20Linking%20Arrow%5D%20Sinon.md>) — 5 stories
+- [\[Red Flash Divine Archer\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146002_%5BRed%20Flash%20Divine%20Archer%5D%20Sinon.md>) — 5 stories
+- [\[Tsukuyomi\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146003_%5BTsukuyomi%5D%20Sinon.md>) — 5 stories
+- [\[Magical Archer\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146004_%5BMagical%20Archer%5D%20Sinon.md>) — 5 stories
+- [\[Pure Princess\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146005_%5BPure%20Princess%5D%20Asuna.md>) — 5 stories
+- [\[Freezing Magic Bow\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146006_%5BFreezing%20Magic%20Bow%5D%20Asuna.md>) — 5 stories
+- [\[Long Range Archer\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146007_%5BLong%20Range%20Archer%5D%20Sinon.md>) — 5 stories
+- [\[Flushed Skin\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146008_%5BFlushed%20Skin%5D%20Ronie.md>) — 5 stories
+- [\[Divine Bow of Benevolence\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146009_%5BDivine%20Bow%20of%20Benevolence%5D%20Silica.md>) — 5 stories
+- [\[Clairvoyant Integrity Knight\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146010_%5BClairvoyant%20Integrity%20Knight%5D%20Sinon.md>) — 5 stories
+- [\[Welcoming the New Year\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146013_%5BWelcoming%20the%20New%20Year%5D%20Asuna.md>) — 5 stories
+- [\[Win Big Bunny\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146014_%5BWin%20Big%20Bunny%5D%20Suguha.md>) — 5 stories
+- [\[Fiery Arrow Cadaver\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146015_%5BFiery%20Arrow%20Cadaver%5D%20Alice.md>) — 5 stories
+- [\[Swift Fox Flame\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146017_%5BSwift%20Fox%20Flame%5D%20Suguha.md>) — 5 stories
+- [\[Under the Blazing Sun\] Ronie](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146018_%5BUnder%20the%20Blazing%20Sun%5D%20Ronie.md>) — 5 stories
+- [\[Piercing Eye\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146022_%5BPiercing%20Eye%5D%20Sinon.md>) — 5 stories
+- [\[Cheerful Chime\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146024_%5BCheerful%20Chime%5D%20Yuuki.md>) — 5 stories
+- [\[Charming Heart\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146025_%5BCharming%20Heart%5D%20Alice.md>) — 5 stories
+- [\[WHEEL OF FORTUNE\] Rain](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146026_%5BWHEEL%20OF%20FORTUNE%5D%20Rain.md>) — 5 stories
+- [\[Precious Moment\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146027_%5BPrecious%20Moment%5D%20Asuna.md>) — 5 stories
+- [\[Stroke of Heaven's Light\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_146028_%5BStroke%20of%20Heaven%27s%20Light%5D%20Sinon.md>) — 5 stories
+- [\[Star Scientist\] Seven](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164001_%5BStar%20Scientist%5D%20Seven.md>) — 5 stories
+- [\[Undine Healer\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164002_%5BUndine%20Healer%5D%20Asuna.md>) — 5 stories
+- [\[Rejoicing Witch\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164005_%5BRejoicing%20Witch%5D%20Leafa.md>) — 5 stories
+- [\[Dragon Caster\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164014_%5BDragon%20Caster%5D%20Silica.md>) — 5 stories
+- [\[Hit Idol of Love and Effort\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164016_%5BHit%20Idol%20of%20Love%20and%20Effort%5D%20Asuna.md>) — 5 stories
+- [\[Eccentric Riding Hood\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164017_%5BEccentric%20Riding%20Hood%5D%20Yuuki.md>) — 5 stories
+- [\[Kitchen Maid\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164018_%5BKitchen%20Maid%5D%20Asuna.md>) — 5 stories
+- [Character 164019](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_164019_Character%20164019.md>) — 5 stories
+- [\[Midnight Temptation\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165001_%5BMidnight%20Temptation%5D%20Asuna.md>) — 5 stories
+- [\[Visitor in Snow\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165003_%5BVisitor%20in%20Snow%5D%20Leafa.md>) — 5 stories
+- [\[Sacred Dance\] Yui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165004_%5BSacred%20Dance%5D%20Yui.md>) — 5 stories
+- [\[Realization of Big Wishes\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165005_%5BRealization%20of%20Big%20Wishes%5D%20Leafa.md>) — 5 stories
+- [\[Accompanied By Animals\] Sinon ](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165007_%5BAccompanied%20By%20Animals%5D%20Sinon.md>) — 5 stories
+- [\[Innocent Puppy\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165008_%5BInnocent%20Puppy%5D%20Leafa.md>) — 5 stories
+- [\[Sweet Voice\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165009_%5BSweet%20Voice%5D%20Asuna.md>) — 5 stories
+- [\[The Brave War God\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_165011_%5BThe%20Brave%20War%20God%5D%20Leafa.md>) — 5 stories
+- [\[Another Master Priest\] Cardinal](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_166005_%5BAnother%20Master%20Priest%5D%20Cardinal.md>) — 5 stories
+- [\[Apprentice Nun\] Selka](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_166007_%5BApprentice%20Nun%5D%20Selka.md>) — 5 stories
+- [\[Long-Haired Songstress\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_166009_%5BLong-Haired%20Songstress%5D%20Leafa.md>) — 5 stories
+- [\[The Perfect White Dress\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_166010_%5BThe%20Perfect%20White%20Dress%5D%20Alice.md>) — 5 stories
+- [\[Yuletide Glamor\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_166012_%5BYuletide%20Glamor%5D%20Suguha.md>) — 5 stories
+- [\[Ascending Goddess of the South\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_166013_%5BAscending%20Goddess%20of%20the%20South%5D%20Tiese.md>) — 5 stories
+- [\[Libra\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_184001_%5BLibra%5D%20Asuna.md>) — 5 stories
+- [\[Leo\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_184002_%5BLeo%5D%20Sinon.md>) — 5 stories
+- [\[Spartan Female Teacher\] Strea](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_184003_%5BSpartan%20Female%20Teacher%5D%20Strea.md>) — 5 stories
+- [\[Kagura Dance\] Premiere](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_184005_%5BKagura%20Dance%5D%20Premiere.md>) — 5 stories
+- [\[Midsummer Babe\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_184006_%5BMidsummer%20Babe%5D%20Suguha.md>) — 5 stories
+- [\[Zinnia Melody\] Seven](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_184008_%5BZinnia%20Melody%5D%20Seven.md>) — 5 stories
+- [\[Santa is coming\] Seven](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_184011_%5BSanta%20is%20coming%5D%20Seven.md>) — 5 stories
+- [\[Never Give Up\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185001_%5BNever%20Give%20Up%5D%20Lisbeth.md>) — 5 stories
+- [\[Looking Back Beauty\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185003_%5BLooking%20Back%20Beauty%5D%20Sinon.md>) — 5 stories
+- [\[Snow Blessings\] Sachi](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185004_%5BSnow%20Blessings%5D%20Sachi.md>) — 5 stories
+- [\[The Unexpected\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185005_%5BThe%20Unexpected%5D%20Sinon.md>) — 5 stories
+- [\[The Coveted Life\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185007_%5BThe%20Coveted%20Life%5D%20Yuuki.md>) — 5 stories
+- [\[Flying Without Wings\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185008_%5BFlying%20Without%20Wings%5D%20Leafa.md>) — 5 stories
+- [\[Funky Play\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185009_%5BFunky%20Play%5D%20Yuuki.md>) — 5 stories
+- [\[The Death Queen\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185012_%5BThe%20Death%20Queen%5D%20Sinon.md>) — 5 stories
+- [\[Beach Lancer\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_185013_%5BBeach%20Lancer%5D%20Leafa.md>) — 5 stories
+- [\[Moonlit Lark\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186001_%5BMoonlit%20Lark%5D%20Asuna.md>) — 5 stories
+- [\[Helheim King\] Makoto](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186002_%5BHelheim%20King%5D%20Makoto.md>) — 5 stories
+- [\[Moonlight Maiden\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186003_%5BMoonlight%20Maiden%5D%20Suguha.md>) — 5 stories
+- [\[Innocent Hina Doll\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186005_%5BInnocent%20Hina%20Doll%5D%20Suguha.md>) — 5 stories
+- [\[Twilight Kiss\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186006_%5BTwilight%20Kiss%5D%20Alice.md>) — 5 stories
+- [\[Photon Voice Fluttering in the Wind\] Seven](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186008_%5BPhoton%20Voice%20Fluttering%20in%20the%20Wind%5D%20Seven.md>) — 5 stories
+- [\[Divine Spear of Prayer\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186010_%5BDivine%20Spear%20of%20Prayer%5D%20Leafa.md>) — 5 stories
+- [\[Rejoice the New Year\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186012_%5BRejoice%20the%20New%20Year%5D%20Tiese.md>) — 5 stories
+- [\[Red-Winged Goddess\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186013_%5BRed-Winged%20Goddess%5D%20Yuuki.md>) — 5 stories
+- [\[Innocent Mermaid\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186014_%5BInnocent%20Mermaid%5D%20Asuna.md>) — 5 stories
+- [\[Spearhead from the Abyss\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186015_%5BSpearhead%20from%20the%20Abyss%5D%20Yuuki.md>) — 5 stories
+- [\[Is This Love\] Sortiliena](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186016_%5BIs%20This%20Love%5D%20Sortiliena.md>) — 5 stories
+- [\[Beach Beauty\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186017_%5BBeach%20Beauty%5D%20Alice.md>) — 5 stories
+- [\[Beach Vibes\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186018_%5BBeach%20Vibes%5D%20Leafa.md>) — 5 stories
+- [\[Devilish Castle Mistress\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186019_%5BDevilish%20Castle%20Mistress%5D%20Asuna.md>) — 5 stories
+- [\[Bringing Joyful Info\] Argo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186020_%5BBringing%20Joyful%20Info%5D%20Argo.md>) — 5 stories
+- [\[Lucky Fortune\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186021_%5BLucky%20Fortune%5D%20Asuna.md>) — 5 stories
+- [\[Melty Heart\] Tiese](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186023_%5BMelty%20Heart%5D%20Tiese.md>) — 5 stories
+- [\[Longing for Then\] Yuuki](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186024_%5BLonging%20for%20Then%5D%20Yuuki.md>) — 5 stories
+- [\[Healing Caretaker Maid\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_186025_%5BHealing%20Caretaker%20Maid%5D%20Asuna.md>) — 5 stories
+- [\[Sharing This Moment\] Nautilus](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_196001_%5BSharing%20This%20Moment%5D%20Nautilus.md>) — 5 stories
+- [\[Patron God of the North\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_196004_%5BPatron%20God%20of%20the%20North%5D%20Eugeo.md>) — 5 stories
+- [\[Treasure-Hungry Pirate Knight\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_196005_%5BTreasure-Hungry%20Pirate%20Knight%5D%20Eugeo.md>) — 5 stories
+- [\[Honest Gunner in the Wild\] Eugeo](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_216001_%5BHonest%20Gunner%20in%20the%20Wild%5D%20Eugeo.md>) — 5 stories
+- [\[Cheerful Young Man\] Kirito](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_216003_%5BCheerful%20Young%20Man%5D%20Kirito.md>) — 5 stories
+- [\[Cool Screw\] Waals](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_224001_%5BCool%20Screw%5D%20Waals.md>) — 5 stories
+- [\[Flash Shooter\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225001_%5BFlash%20Shooter%5D%20Asuna.md>) — 5 stories
+- [\[Gale Gunner\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225002_%5BGale%20Gunner%5D%20Leafa.md>) — 5 stories
+- [\[Dragon Tamer in the Wild\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225003_%5BDragon%20Tamer%20in%20the%20Wild%5D%20Silica.md>) — 5 stories
+- [\[Stout Heart in the World of Steel\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225004_%5BStout%20Heart%20in%20the%20World%20of%20Steel%5D%20Lisbeth.md>) — 5 stories
+- [\[Little Beauty\] LLENN](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225011_%5BLittle%20Beauty%5D%20LLENN.md>) — 5 stories
+- [\[Charming Look\] Pitohui](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225012_%5BCharming%20Look%5D%20Pitohui.md>) — 5 stories
+- [\[Storm Baby\] Fukaziroh](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225013_%5BStorm%20Baby%5D%20Fukaziroh.md>) — 5 stories
+- [\[MHCP on the Frontline\] Strea](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225019_%5BMHCP%20on%20the%20Frontline%5D%20Strea.md>) — 5 stories
+- [\[Santa Surprise\] LLENN](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225027_%5BSanta%20Surprise%5D%20LLENN.md>) — 5 stories
+- [\[Parachute Reindeer\] Fukaziroh](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_225028_%5BParachute%20Reindeer%5D%20Fukaziroh.md>) — 5 stories
+- [\[Luminous Ornaments\] Asuna](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_226001_%5BLuminous%20Ornaments%5D%20Asuna.md>) — 5 stories
+- [\[Christmas Shooting Star\] Leafa](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_226002_%5BChristmas%20Shooting%20Star%5D%20Leafa.md>) — 5 stories
+- [\[Noble Gunner in the Wild\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_226005_%5BNoble%20Gunner%20in%20the%20Wild%5D%20Alice.md>) — 5 stories
+- [\[Promised Happiness\] Lisbeth](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_226006_%5BPromised%20Happiness%5D%20Lisbeth.md>) — 5 stories
+- [\[Frontline Methods\] Silica](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_226007_%5BFrontline%20Methods%5D%20Silica.md>) — 5 stories
+- [\[Earnest Purity\] Alice](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_226011_%5BEarnest%20Purity%5D%20Alice.md>) — 5 stories
+- [\[Barista in Bloom\] Suguha](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_526056_%5BBarista%20in%20Bloom%5D%20Suguha.md>) — 5 stories
+- [\[If Flowers Could Speak\] Sinon](<%E8%A7%92%E8%89%B2%E5%89%A7%E6%83%85/character_6146023_%5BIf%20Flowers%20Could%20Speak%5D%20Sinon.md>) — 5 stories
+- [Event · Return of the Beast Lord](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4002_Event%20%C2%B7%20Return%20of%20the%20Beast%20Lord.md>) — 12 stories
+- [Event · The Fairy Daughter](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4003_Event%20%C2%B7%20The%20Fairy%20Daughter.md>) — 12 stories
+- [Event · The Burning Caverns](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4004_Event%20%C2%B7%20The%20Burning%20Caverns.md>) — 12 stories
+- [Event · Grand Quest of the Top-Ranked](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4006_Event%20%C2%B7%20Grand%20Quest%20of%20the%20Top-Ranked.md>) — 13 stories
+- [Event · Beware the Kobold Trickster!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4008_Event%20%C2%B7%20Beware%20the%20Kobold%20Trickster%21.md>) — 12 stories
+- [Event · Sima the Fisherman](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4010_Event%20%C2%B7%20Sima%20the%20Fisherman.md>) — 12 stories
+- [Event · Each to Their Own](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4012_Event%20%C2%B7%20Each%20to%20Their%20Own.md>) — 12 stories
+- [Event · Christmas Memories](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4015_Event%20%C2%B7%20Christmas%20Memories.md>) — 13 stories
+- [Event · Made With Love](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4016_Event%20%C2%B7%20Made%20With%20Love.md>) — 13 stories
+- [Event · The Food of Friendship](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4018_Event%20%C2%B7%20The%20Food%20of%20Friendship.md>) — 12 stories
+- [Event · Survival Battle on Desert](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4020_Event%20%C2%B7%20Survival%20Battle%20on%20Desert.md>) — 12 stories
+- [Event · Queen of Chef](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4022_Event%20%C2%B7%20Queen%20of%20Chef.md>) — 13 stories
+- [Event · OS Episode 0](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4027_Event%20%C2%B7%20OS%20Episode%200.md>) — 12 stories
+- [Event · Backed by the Cheer of My Daughter](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4029_Event%20%C2%B7%20Backed%20by%20the%20Cheer%20of%20My%20Daughter.md>) — 12 stories
+- [Event · The stage and a cat fairy.](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4030_Event%20%C2%B7%20The%20stage%20and%20a%20cat%20fairy..md>) — 12 stories
+- [Event · Demon conquer of Alfheim](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4031_Event%20%C2%B7%20Demon%20conquer%20of%20Alfheim.md>) — 12 stories
+- [Event · Pop Star Online part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4032_Event%20%C2%B7%20Pop%20Star%20Online%20part%201.md>) — 11 stories
+- [Event · Stars Orbit the Hopes of Another World](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4034_Event%20%C2%B7%20Stars%20Orbit%20the%20Hopes%20of%20Another%20World.md>) — 12 stories
+- [Event · Longing for sailor suit](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4035_Event%20%C2%B7%20Longing%20for%20sailor%20suit.md>) — 12 stories
+- [Event · Invitation from Fairyland](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4036_Event%20%C2%B7%20Invitation%20from%20Fairyland.md>) — 12 stories
+- [Event · Let's Go! Maid to Fight!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4037_Event%20%C2%B7%20Let%27s%20Go%21%20Maid%20to%20Fight%21.md>) — 12 stories
+- [Event · Get up nerve in virtual world](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4038_Event%20%C2%B7%20Get%20up%20nerve%20in%20virtual%20world.md>) — 12 stories
+- [Event · Pop Star Online part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4039_Event%20%C2%B7%20Pop%20Star%20Online%20part%202.md>) — 12 stories
+- [Event · Black flame in backwater](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4040_Event%20%C2%B7%20Black%20flame%20in%20backwater.md>) — 12 stories
+- [Event · Meteor Showers the Goddess of Battle](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4042_Event%20%C2%B7%20Meteor%20Showers%20the%20Goddess%20of%20Battle.md>) — 12 stories
+- [Event · Bridal competition](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4043_Event%20%C2%B7%20Bridal%20competition.md>) — 12 stories
+- [Event · Rainy day](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4044_Event%20%C2%B7%20Rainy%20day.md>) — 12 stories
+- [Event · No rules! Battle royale of AR newbies](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4045_Event%20%C2%B7%20No%20rules%21%20Battle%20royale%20of%20AR%20newbies.md>) — 12 stories
+- [Event · Lives drawn in the virtual world](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4046_Event%20%C2%B7%20Lives%20drawn%20in%20the%20virtual%20world.md>) — 12 stories
+- [Event · The Sacred treasure in the Sea](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4048_Event%20%C2%B7%20The%20Sacred%20treasure%20in%20the%20Sea.md>) — 12 stories
+- [Event · Idol Singer](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4050_Event%20%C2%B7%20Idol%20Singer.md>) — 12 stories
+- [Event · Tanabata](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4051_Event%20%C2%B7%20Tanabata.md>) — 12 stories
+- [Event · Yukata](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4052_Event%20%C2%B7%20Yukata.md>) — 12 stories
+- [Event · Premiere's Summer Festival](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4055_Event%20%C2%B7%20Premiere%27s%20Summer%20Festival.md>) — 12 stories
+- [Event · PIRATES of ALO](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4057_Event%20%C2%B7%20PIRATES%20of%20ALO.md>) — 12 stories
+- [Event · Assault! Proof of Strong Bonds](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4058_Event%20%C2%B7%20Assault%21%20Proof%20of%20Strong%20Bonds.md>) — 12 stories
+- [Event · Assault! The Revenant](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4059_Event%20%C2%B7%20Assault%21%20The%20Revenant.md>) — 12 stories
+- [Event · The Star's Call Opens the Door](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4060_Event%20%C2%B7%20The%20Star%27s%20Call%20Opens%20the%20Door.md>) — 12 stories
+- [Event · Arianrhod in the Past](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4062_Event%20%C2%B7%20Arianrhod%20in%20the%20Past.md>) — 12 stories
+- [Event · Rival War! - in quest of secluded hot springs - ](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4063_Event%20%C2%B7%20Rival%20War%21%20-%20in%20quest%20of%20secluded%20hot%20springs%20-.md>) — 12 stories
+- [Event · The Malefic Star of the Magic Citadel](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4064_Event%20%C2%B7%20The%20Malefic%20Star%20of%20the%20Magic%20Citadel.md>) — 12 stories
+- [Event · The Battle of Castle Demon](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4065_Event%20%C2%B7%20The%C2%A0Battle%20of%20Castle%20Demon.md>) — 12 stories
+- [Event · Sport Festival](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4067_Event%20%C2%B7%20Sport%20Festival.md>) — 12 stories
+- [Event · Flowers in the Wilderness](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4068_Event%20%C2%B7%20Flowers%20in%20the%20Wilderness.md>) — 12 stories
+- [Event · Playing Cards](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4069_Event%20%C2%B7%20Playing%20Cards.md>) — 12 stories
+- [Event · Carol Under the Starry Sky](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4070_Event%20%C2%B7%20Carol%20Under%20the%20Starry%20Sky.md>) — 12 stories
+- [Event · Gifts from the Snowy Sky](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4071_Event%20%C2%B7%20Gifts%20from%20the%20Snowy%20Sky.md>) — 12 stories
+- [Event · Hearing your voice, Where the sun rises](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4072_Event%20%C2%B7%20Hearing%20your%20voice%2C%20Where%20the%20sun%20rises.md>) — 12 stories
+- [Event · The Secret Alliance — Christmas Gift Mission](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4074_Event%20%C2%B7%20The%20Secret%20Alliance%20%E2%80%94%20Christmas%20Gift%20Mission.md>) — 12 stories
+- [Event · Mochi Mochi Panic! Mochi Pounding Party](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4075_Event%20%C2%B7%20Mochi%20Mochi%20Panic%21%20Mochi%20Pounding%20Party.md>) — 12 stories
+- [Event · Valentine's Day Early Feb 2018](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4076_Event%20%C2%B7%20Valentine%27s%20Day%20Early%20Feb%202018.md>) — 12 stories
+- [Event · Inherited Tradition - A priests will](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4077_Event%20%C2%B7%20Inherited%20Tradition%20-%20A%20priests%20will.md>) — 12 stories
+- [Event · A Dark Plot Against Fliers](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4078_Event%20%C2%B7%20A%20Dark%20Plot%20Against%20Fliers.md>) — 12 stories
+- [Event · Steel, Break, Helpless](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4081_Event%20%C2%B7%20Steel%2C%20Break%2C%20Helpless.md>) — 12 stories
+- [Event · School Life with Friends](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4083_Event%20%C2%B7%20School%20Life%20with%20Friends.md>) — 12 stories
+- [Event · New Breed!? Tremendous Dog Fairy](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4084_Event%20%C2%B7%20New%20Breed%21_%20Tremendous%20Dog%20Fairy.md>) — 12 stories
+- [Event · Pop Star Online LIVE BATTLE Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4085_Event%20%C2%B7%20Pop%20Star%20Online%20LIVE%20BATTLE%20Part%201.md>) — 12 stories
+- [Event · Pop Star Online LIVE BATTLE Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4087_Event%20%C2%B7%20Pop%20Star%20Online%20LIVE%20BATTLE%20Part%202.md>) — 12 stories
+- [Event · Awesome Newbie](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4088_Event%20%C2%B7%20Awesome%20Newbie.md>) — 12 stories
+- [Event · Hello New Me](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4091_Event%20%C2%B7%20Hello%20New%20Me.md>) — 9 stories
+- [Event · Fairy Squad Jam](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4093_Event%20%C2%B7%20Fairy%20Squad%20Jam.md>) — 12 stories
+- [Event · Asuna's Great Adventure](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4094_Event%20%C2%B7%20Asuna%27s%20Great%20Adventure.md>) — 12 stories
+- [Event · One Day in the Battlefield - Girls and GGO](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4095_Event%20%C2%B7%20One%20Day%20in%20the%20Battlefield%20-%20Girls%20and%20GGO.md>) — 12 stories
+- [Event · June Bride Quest Wedding Frenzy](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4096_Event%20%C2%B7%20June%20Bride%20Quest%20Wedding%20Frenzy.md>) — 12 stories
+- [Event · Morphin' Fairies](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4097_Event%20%C2%B7%20Morphin%27%20Fairies.md>) — 12 stories
+- [Event · Support Mech - Ultimate Duo](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4098_Event%20%C2%B7%20Support%20Mech%20-%20Ultimate%20Duo.md>) — 12 stories
+- [Event · Love Spark on the Romantic Beach](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4100_Event%20%C2%B7%20Love%20Spark%20on%20the%20Romantic%20Beach.md>) — 12 stories
+- [Event · Awakening of the Gods - The Last Sacred Treasure](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4101_Event%20%C2%B7%20Awakening%20of%20the%20Gods%20-%20The%20Last%20Sacred%20Treasure.md>) — 12 stories
+- [Event · Conclusion of the Star - Promise of Reunion](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4102_Event%20%C2%B7%20Conclusion%20of%20the%20Star%20-%20Promise%20of%20Reunion.md>) — 12 stories
+- [Event · Panic! Monster Beach Party](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4103_Event%20%C2%B7%20Panic%21%20Monster%20Beach%20Party.md>) — 12 stories
+- [Event · Eternal Bond - The Story of the Stars](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4104_Event%20%C2%B7%20Eternal%20Bond%20-%20The%20Story%20of%20the%20Stars.md>) — 18 stories
+- [Event · Fairyland Saga](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4105_Event%20%C2%B7%20Fairyland%20Saga.md>) — 13 stories
+- [Event · Helheim’s Invasion ~Awakening~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4107_Event%20%C2%B7%20Helheim%E2%80%99s%20Invasion%20~Awakening~.md>) — 12 stories
+- [Event · Halheim’s invasion 〜Release〜](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4108_Event%20%C2%B7%20Halheim%E2%80%99s%20invasion%20%E3%80%9CRelease%E3%80%9C.md>) — 12 stories
+- [Event · Staged Halloween Party Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4109_Event%20%C2%B7%20Staged%20Halloween%20Party%20Part%201.md>) — 12 stories
+- [Event · Midgard Stolen Bride ](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4111_Event%20%C2%B7%20Midgard%20Stolen%20Bride.md>) — 12 stories
+- [Event · Staged Halloween Party Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4112_Event%20%C2%B7%20Staged%20Halloween%20Party%20Part%202.md>) — 12 stories
+- [Event · Moonlight Tsujigiri Hunt Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4113_Event%20%C2%B7%20Moonlight%20Tsujigiri%20Hunt%20Part%201.md>) — 12 stories
+- [Event · Moonlight Tsujigiri Hunt Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4114_Event%20%C2%B7%20Moonlight%20Tsujigiri%20Hunt%20Part%202.md>) — 12 stories
+- [Event · Party Crashers](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4115_Event%20%C2%B7%20Party%20Crashers.md>) — 12 stories
+- [Event · A Rest Day for Swordsmen](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4116_Event%20%C2%B7%20A%20Rest%20Day%20for%20Swordsmen.md>) — 12 stories
+- [Event · Battlefield's Christmas Miracle Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4117_Event%20%C2%B7%20Battlefield%27s%20Christmas%20Miracle%20Part%201.md>) — 12 stories
+- [Event · Battlefield's Christmas Miracle Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4118_Event%20%C2%B7%20Battlefield%27s%20Christmas%20Miracle%20Part%202.md>) — 12 stories
+- [Event · New Year's at the Swordcraft Academy](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4119_Event%20%C2%B7%20New%20Year%27s%20at%20the%20Swordcraft%20Academy.md>) — 12 stories
+- [Event · New Year Special Japanese Mythology](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4120_Event%20%C2%B7%20New%20Year%20Special%20Japanese%20Mythology.md>) — 12 stories
+- [Event · New Year's Stage at the Floating Castle](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4121_Event%20%C2%B7%20New%20Year%27s%20Stage%20at%20the%20Floating%20Castle.md>) — 12 stories
+- [Event · Restart! Ordinal Scale Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4124_Event%20%C2%B7%20Restart%21%20Ordinal%20Scale%20Part%201.md>) — 12 stories
+- [Event · Chocolate Rival War - Angels vs Demons](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4125_Event%20%C2%B7%20Chocolate%20Rival%20War%20-%20Angels%20vs%20Demons.md>) — 12 stories
+- [Event · Restart! Ordinal Scale Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4127_Event%20%C2%B7%20Restart%21%20Ordinal%20Scale%20Part%202.md>) — 12 stories
+- [Event · Haunted Doll Festival](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4130_Event%20%C2%B7%20Haunted%20Doll%20Festival.md>) — 12 stories
+- [Event · Finding the Silver Lining](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4132_Event%20%C2%B7%20Finding%20the%20Silver%20Lining.md>) — 12 stories
+- [Event · Friendly Match in Fairyland](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4133_Event%20%C2%B7%20Friendly%20Match%20in%20Fairyland.md>) — 12 stories
+- [Event · Sleeping Together Online Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4134_Event%20%C2%B7%20Sleeping%20Together%20Online%20Part%201.md>) — 12 stories
+- [Event · Sleeping Together Online Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4135_Event%20%C2%B7%20Sleeping%20Together%20Online%20Part%202.md>) — 12 stories
+- [Event · Save Fairy Princess Titania](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4136_Event%20%C2%B7%20Save%20Fairy%20Princess%20Titania.md>) — 12 stories
+- [Event · Brownie and the Secret Mission](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4137_Event%20%C2%B7%20Brownie%20and%20the%20Secret%20Mission.md>) — 12 stories
+- [Event · Dead Lands and Blazing Giant](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4138_Event%20%C2%B7%20Dead%20Lands%20and%20Blazing%20Giant.md>) — 12 stories
+- [Event · Pure White Wasteland Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4139_Event%20%C2%B7%20Pure%20White%20Wasteland%20Part%201.md>) — 12 stories
+- [Event · Pure White Wasteland Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4140_Event%20%C2%B7%20Pure%20White%20Wasteland%20Part%202.md>) — 12 stories
+- [Event · Desire for Otherworldly Treasure](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4141_Event%20%C2%B7%20Desire%20for%20Otherworldly%20Treasure.md>) — 12 stories
+- [Event · Splashing Swordswomen](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4143_Event%20%C2%B7%20Splashing%20Swordswomen.md>) — 12 stories
+- [Event · Raising the Curtain in the World of Mixed Steel](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4144_Event%20%C2%B7%20Raising%20the%20Curtain%20in%20the%20World%20of%20Mixed%20Steel.md>) — 12 stories
+- [Event · Disturbance in the World of Mixed Steel](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4145_Event%20%C2%B7%20Disturbance%20in%20the%20World%20of%20Mixed%20Steel.md>) — 12 stories
+- [Event · New Start in the World of Mixed Steel](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4146_Event%20%C2%B7%20New%20Start%20in%20the%20World%20of%20Mixed%20Steel.md>) — 12 stories
+- [Event · Midgard Maiden Warriors ~First Summer~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4149_Event%20%C2%B7%20Midgard%20Maiden%20Warriors%20~First%20Summer~.md>) — 12 stories
+- [Event · Journey of the Dreamer Swordsman and Wizard](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4150_Event%20%C2%B7%20Journey%20of%20the%20Dreamer%20Swordsman%20and%20Wizard.md>) — 12 stories
+- [Event · Midgard Maiden Warriors ~Midsummer~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4151_Event%20%C2%B7%20Midgard%20Maiden%20Warriors%20~Midsummer~.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Rising~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4152_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Rising~.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Salvation~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4153_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Salvation~.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Tensions~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4154_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Tensions~.md>) — 12 stories
+- [Event · Cathedral of Nostalgia](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4155_Event%20%C2%B7%20Cathedral%20of%20Nostalgia.md>) — 12 stories
+- [Event · The Enchanting Arabian Caravan](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4156_Event%20%C2%B7%20The%20Enchanting%20Arabian%20Caravan.md>) — 12 stories
+- [Event · Return to Rulid Village](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4157_Event%20%C2%B7%20Return%20to%20Rulid%20Village.md>) — 12 stories
+- [Event · Memoir of a Steamy Bath Time](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4158_Event%20%C2%B7%20Memoir%20of%20a%20Steamy%20Bath%20Time.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Liberation~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4159_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Liberation~.md>) — 12 stories
+- [Event · Night Before the Knights’ Battle](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4160_Event%20%C2%B7%20Night%20Before%20the%20Knights%E2%80%99%20Battle.md>) — 12 stories
+- [Event · Integrity Knight of Dreams ~Challenge~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4161_Event%20%C2%B7%20Integrity%20Knight%20of%20Dreams%20~Challenge~.md>) — 12 stories
+- [Event · The Integrity Knight of Dreams ~Settlement~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4162_Event%20%C2%B7%20The%20Integrity%20Knight%20of%20Dreams%20~Settlement~.md>) — 12 stories
+- [Event · Gossip on the Battlefield](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4163_Event%20%C2%B7%20Gossip%20on%20the%20Battlefield.md>) — 12 stories
+- [Event · JP VR New Year's Stamp Rally: Old Year](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4164_Event%20%C2%B7%20JP%20VR%20New%20Year%27s%20Stamp%20Rally_%20Old%20Year.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Clever Scheme~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4165_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Clever%20Scheme~.md>) — 12 stories
+- [Event · JP VR New Year's Stamp Rally: New Year](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4166_Event%20%C2%B7%20JP%20VR%20New%20Year%27s%20Stamp%20Rally_%20New%20Year.md>) — 12 stories
+- [Event · Sword Deity of the Sacred Mountain](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4167_Event%20%C2%B7%20Sword%20Deity%20of%20the%20Sacred%20Mountain.md>) — 12 stories
+- [Event · The Twisted Emperor and Phantom Knights: Part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4168_Event%20%C2%B7%20The%20Twisted%20Emperor%20and%20Phantom%20Knights_%20Part%201.md>) — 12 stories
+- [Event · The Twisted Emperor and Phantom Knights: Part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4170_Event%20%C2%B7%20The%20Twisted%20Emperor%20and%20Phantom%20Knights_%20Part%202.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Ascension~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4171_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Ascension~.md>) — 12 stories
+- [Event · Get Rich Quick! The Captivating Bunnygirl](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4172_Event%20%C2%B7%20Get%20Rich%20Quick%21%20The%20Captivating%20Bunnygirl.md>) — 12 stories
+- [Event · Meteor Showers the Goddess of Battle](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4175_Event%20%C2%B7%20Meteor%20Showers%20the%20Goddess%20of%20Battle.md>) — 12 stories
+- [Event · Idol Singer](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4176_Event%20%C2%B7%20Idol%20Singer.md>) — 12 stories
+- [Event · Brilliant Bosses in the Dreaming City ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4177_Event%20%C2%B7%20Brilliant%20Bosses%20in%20the%C2%A0Dreaming%20City%C2%A0~Part%201~.md>) — 12 stories
+- [Event · Brilliant Bosses in the Dreaming City ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4179_Event%20%C2%B7%20Brilliant%20Bosses%20in%20the%20Dreaming%20City%20~Part%202~.md>) — 12 stories
+- [Event · Fairy Tale Princess Story](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4180_Event%20%C2%B7%20Fairy%20Tale%20Princess%20Story.md>) — 12 stories
+- [Event · Yokai Parade Under the Full Moon](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4181_Event%20%C2%B7%20Yokai%20Parade%20Under%20the%20Full%20Moon.md>) — 12 stories
+- [Event · Pop Star Online part 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4182_Event%20%C2%B7%20Pop%20Star%20Online%20part%201.md>) — 11 stories
+- [Event · Pop Star Online part 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4183_Event%20%C2%B7%20Pop%20Star%20Online%20part%202.md>) — 12 stories
+- [Event · The Brides of Your Dreams ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4186_Event%20%C2%B7%20The%20Brides%20of%20Your%20Dreams%20~Part%201~.md>) — 12 stories
+- [Event · The Brides of Your Dreams ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4187_Event%20%C2%B7%20The%20Brides%20of%20Your%20Dreams%20~Part%202~.md>) — 12 stories
+- [Event · Let's Go! Maid to Fight!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4188_Event%20%C2%B7%20Let%27s%20Go%21%20Maid%20to%20Fight%21.md>) — 12 stories
+- [Event · The Malefic Star of the Magic Citadel](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4189_Event%20%C2%B7%20The%20Malefic%20Star%20of%20the%20Magic%20Citadel.md>) — 12 stories
+- [Event · Goddess Trinity on the Battlefront](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4190_Event%20%C2%B7%20Goddess%20Trinity%20on%20the%20Battlefront.md>) — 12 stories
+- [Event · Demon conquer of Alfheim](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4191_Event%20%C2%B7%20Demon%20conquer%20of%20Alfheim.md>) — 12 stories
+- [Event · Carol Under the Starry Sky](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4192_Event%20%C2%B7%20Carol%20Under%20the%20Starry%20Sky.md>) — 12 stories
+- [Event · The Secret Alliance — Christmas Gift Mission](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4193_Event%20%C2%B7%20The%20Secret%20Alliance%20%E2%80%94%20Christmas%20Gift%20Mission.md>) — 12 stories
+- [Event · Summer Brings the Roaring Waves ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4195_Event%20%C2%B7%20Summer%20Brings%20the%20Roaring%20Waves%20~Part%201~.md>) — 12 stories
+- [Event · Summer Brings the Roaring Waves ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4196_Event%20%C2%B7%20Summer%20Brings%20the%20Roaring%20Waves%20~Part%202~.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4197_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Part%201~.md>) — 24 stories
+- [Event · Nibelungen Purgatory ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4198_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Part%202~.md>) — 24 stories
+- [Event · Nibelungen Purgatory ~Part 3~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4199_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Part%203~.md>) — 36 stories
+- [Event · Helheim's invasion ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4200_Event%20%C2%B7%20Helheim%27s%20invasion%20~Part%201~.md>) — 24 stories
+- [Event · Helheim's invasion ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4201_Event%20%C2%B7%20Helheim%27s%20invasion%20~Part%202~.md>) — 24 stories
+- [Event · Enduring Bonds: Rosario of Awakening](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4203_Event%20%C2%B7%20Enduring%20Bonds_%20Rosario%20of%20Awakening.md>) — 12 stories
+- [Event · Hero Rises: High-Flying Prayer](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4207_Event%20%C2%B7%20Hero%20Rises_%20High-Flying%20Prayer.md>) — 12 stories
+- [Event · United in Dissonance ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4208_Event%20%C2%B7%20United%20in%20Dissonance%20~Part%202~.md>) — 12 stories
+- [Event · United in Dissonance ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4209_Event%20%C2%B7%20United%20in%20Dissonance%20~Part%201~.md>) — 12 stories
+- [Event · Dazzling Halloween Night ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4210_Event%20%C2%B7%20Dazzling%20Halloween%20Night%20~Part%201~.md>) — 12 stories
+- [Event · Dazzling Halloween Night ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4211_Event%20%C2%B7%20Dazzling%20Halloween%20Night%20~Part%202~.md>) — 12 stories
+- [Event · Romantic Diary in a Kimono Cafe](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4213_Event%20%C2%B7%20Romantic%20Diary%20in%20a%20Kimono%20Cafe.md>) — 12 stories
+- [Event · Seeker of Arcana ~Blank Card~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4215_Event%20%C2%B7%20Seeker%20of%20Arcana%20~Blank%20Card~.md>) — 12 stories
+- [Event · Redux: Dazzling Halloween Night ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4217_Event%20%C2%B7%20Redux_%20Dazzling%20Halloween%20Night%20~Part%201~.md>) — 12 stories
+- [Event · Dress-up Decoration! ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4219_Event%20%C2%B7%20Dress-up%20Decoration%21%20~Part%201~.md>) — 12 stories
+- [Event · Dress-up Decoration! ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4221_Event%20%C2%B7%20Dress-up%20Decoration%21%20~Part%202~.md>) — 12 stories
+- [Event · New Year's Reward](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4222_Event%20%C2%B7%20New%20Year%27s%20Reward.md>) — 12 stories
+- [Event · Ancient Tale of Divine Beasts ~Part 2~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4223_Event%20%C2%B7%20Ancient%20Tale%20of%20Divine%20Beasts%20~Part%202~.md>) — 12 stories
+- [Event · Ancient Tale of Divine Beasts ~Part 1~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4224_Event%20%C2%B7%20Ancient%20Tale%20of%20Divine%20Beasts%20~Part%201~.md>) — 12 stories
+- [Event · Blissful School Days ~Beginning~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4228_Event%20%C2%B7%20Blissful%20School%20Days%20~Beginning~.md>) — 12 stories
+- [Event · Blissful School Days ~The End~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4229_Event%20%C2%B7%20Blissful%20School%20Days%20~The%20End~.md>) — 12 stories
+- [Event · Mansion Fairies and New Maids](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4230_Event%20%C2%B7%20Mansion%20Fairies%20and%20New%20Maids.md>) — 12 stories
+- [Event · Defiant June Bride](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4232_Event%20%C2%B7%20Defiant%20June%20Bride.md>) — 5 stories
+- [Event · Nostalgic Memories ~ SAO・ALO ~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4235_Event%20%C2%B7%20Nostalgic%20Memories%20~%20SAO%E3%83%BBALO%20~.md>) — 12 stories
+- [Event · Nostalgic Memories ~ GGO・UW ~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4236_Event%20%C2%B7%20Nostalgic%20Memories%20~%20GGO%E3%83%BBUW%20~.md>) — 12 stories
+- [Event · Helheim's invasion ~Vigorous Attack~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4401_Event%20%C2%B7%20Helheim%27s%20invasion%20~Vigorous%20Attack~.md>) — 12 stories
+- [Event · Helheim's invasion ~Confrontation~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4402_Event%20%C2%B7%20Helheim%27s%20invasion%20~Confrontation~.md>) — 12 stories
+- [Event · Nibelungen Purgatory ~Reincarnation~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4651_Event%20%C2%B7%20Nibelungen%20Purgatory%20~Reincarnation~.md>) — 12 stories
+- [Event · The Pristine Floating Castle](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_4804_Event%20%C2%B7%20The%20Pristine%20Floating%20Castle.md>) — 1 stories
+- [Chara Event · Tales Mash Up Character Introduction](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_7029_Chara%20Event%20%C2%B7%20Tales%20Mash%20Up%20Character%20Introduction.md>) — 1 stories
+- [Chara Event · ???????'s ???????? ~episode 0~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_7030_Chara%20Event%20%C2%B7%20_______%27s%20________%20~episode%200~.md>) — 1 stories
+- [Chara Event · CM Linked Quest](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_7031_Chara%20Event%20%C2%B7%20CM%20Linked%20Quest.md>) — 1 stories
+- [Equip Event · Sugary Sweet Secret Treat](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_8108_Equip%20Event%20%C2%B7%20Sugary%20Sweet%20Secret%20Treat.md>) — 12 stories
+- [Equip Event · Seeker of Arcana ~Success~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_8110_Equip%20Event%20%C2%B7%20Seeker%20of%20Arcana%20~Success~.md>) — 12 stories
+- [Equip Event · The Pirates and the Seaside Treasures](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_8111_Equip%20Event%20%C2%B7%20The%20Pirates%20and%20the%20Seaside%20Treasures.md>) — 12 stories
+- [Equip Event · Gabbing Goddesses](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_8113_Equip%20Event%20%C2%B7%20Gabbing%20Goddesses.md>) — 12 stories
+- [Equip Event · Blissful School Days ~Interlude~](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_8117_Equip%20Event%20%C2%B7%20Blissful%20School%20Days%20~Interlude~.md>) — 12 stories
+- [Present · SAO A GGO Digest](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_9020_Present%20%C2%B7%20SAO%20A%20GGO%20Digest.md>) — 13 stories
+- [Present · Anime Trailer Gift Quest](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_9022_Present%20%C2%B7%20Anime%20Trailer%20Gift%20Quest.md>) — 12 stories
+- [Quest 10000131](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/chapter_10004_Quest%2010000131.md>) — 12 stories
+- [Weird Whispers](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005001_Weird%20Whispers.md>) — 1 stories
+- [To Butterfly Valley: 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005002_To%20Butterfly%20Valley_%201.md>) — 1 stories
+- [Flying High](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005003_Flying%20High.md>) — 1 stories
+- [To Butterfly Valley: 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005004_To%20Butterfly%20Valley_%202.md>) — 1 stories
+- [The Fog-Shrouded Valley](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005005_The%20Fog-Shrouded%20Valley.md>) — 1 stories
+- [The Demihuman Bandits](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005006_The%20Demihuman%20Bandits.md>) — 1 stories
+- [To The Eye of the Sandstorm](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005007_To%20The%20Eye%20of%20the%20Sandstorm.md>) — 1 stories
+- [Goblin Showdown](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005008_Goblin%20Showdown.md>) — 2 stories
+- [Bandit of the Sands](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005009_Bandit%20of%20the%20Sands.md>) — 2 stories
+- [Clearing the Fog](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4005010_Clearing%20the%20Fog.md>) — 1 stories
+- [Halloween in ALO](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007001_Halloween%20in%20ALO.md>) — 1 stories
+- [I Want Candy!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007002_I%20Want%20Candy%21.md>) — 2 stories
+- [Give Me Back My Candy!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007003_Give%20Me%20Back%20My%20Candy%21.md>) — 1 stories
+- [My Kingdom for Some Candy](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007004_My%20Kingdom%20for%20Some%20Candy.md>) — 1 stories
+- [A Certain Strategy](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007005_A%20Certain%20Strategy.md>) — 1 stories
+- [Canvass the Neighborhood](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007006_Canvass%20the%20Neighborhood.md>) — 1 stories
+- [Acceptance](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007007_Acceptance.md>) — 1 stories
+- [The Home Stretch](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007008_The%20Home%20Stretch.md>) — 2 stories
+- [Sweet-Toothed Witch](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007009_Sweet-Toothed%20Witch.md>) — 1 stories
+- [Trick or Treat](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4007010_Trick%20or%20Treat.md>) — 1 stories
+- [Incident in Cait Sith Territory](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009001_Incident%20in%20Cait%20Sith%20Territory.md>) — 1 stories
+- [Seeking Reinforcements](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009002_Seeking%20Reinforcements.md>) — 1 stories
+- [What the Giant Seeks](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009003_What%20the%20Giant%20Seeks.md>) — 1 stories
+- [What the Giant Seeks: 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009004_What%20the%20Giant%20Seeks_%202.md>) — 1 stories
+- [Golden Apple](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009005_Golden%20Apple.md>) — 1 stories
+- [Beyond the Mountain](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009006_Beyond%20the%20Mountain.md>) — 2 stories
+- [Completion Requirements](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009007_Completion%20Requirements.md>) — 1 stories
+- [The World Tree Sapling](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009008_The%20World%20Tree%20Sapling.md>) — 1 stories
+- [What the Frost Giants Seek](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009009_What%20the%20Frost%20Giants%20Seek.md>) — 2 stories
+- [Sap of the World Tree](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4009010_Sap%20of%20the%20World%20Tree.md>) — 1 stories
+- [The New Dragon in Town](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011001_The%20New%20Dragon%20in%20Town.md>) — 1 stories
+- [To The Nest of the Storm Dragon](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011002_To%20The%20Nest%20of%20the%20Storm%20Dragon.md>) — 1 stories
+- [Defeating the Storm Dragon](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011003_Defeating%20the%20Storm%20Dragon.md>) — 1 stories
+- [X'rphan the Tempest Wyrm](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011004_X%27rphan%20the%20Tempest%20Wyrm.md>) — 2 stories
+- [The Winged Dragon's Secret: 1](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011005_The%20Winged%20Dragon%27s%20Secret_%201.md>) — 1 stories
+- [The Winged Dragon's Secret: 2](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011006_The%20Winged%20Dragon%27s%20Secret_%202.md>) — 1 stories
+- [Wind Dragon's Abode](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011007_Wind%20Dragon%27s%20Abode.md>) — 1 stories
+- [Back to the Storm Dragon's Nest](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011008_Back%20to%20the%20Storm%20Dragon%27s%20Nest.md>) — 1 stories
+- [Storm Dragon's Abode](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011009_Storm%20Dragon%27s%20Abode.md>) — 2 stories
+- [Complete the Quest](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4011010_Complete%20the%20Quest.md>) — 1 stories
+- [Quest...Complete?](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013001_Quest...Complete_.md>) — 1 stories
+- [Looking for Clues](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013002_Looking%20for%20Clues.md>) — 1 stories
+- [The Lord's Estate](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013003_The%20Lord%27s%20Estate.md>) — 1 stories
+- [The Labyrinth](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013004_The%20Labyrinth.md>) — 2 stories
+- [A Bovine Creature](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013005_A%20Bovine%20Creature.md>) — 1 stories
+- [The Truth About the Cave](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013006_The%20Truth%20About%20the%20Cave.md>) — 1 stories
+- [The Seven's Sacrifice](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013007_The%20Seven%27s%20Sacrifice.md>) — 1 stories
+- [The Creatures](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013008_The%20Creatures.md>) — 2 stories
+- [Identity of the Beast](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013009_Identity%20of%20the%20Beast.md>) — 2 stories
+- [Atonement](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4013010_Atonement.md>) — 1 stories
+- [Trying Out FullDive](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014001_Trying%20Out%20FullDive.md>) — 1 stories
+- [Christmas in ALO](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014002_Christmas%20in%20ALO.md>) — 1 stories
+- [Endless Events](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014003_Endless%20Events.md>) — 1 stories
+- [Event Objectives](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014004_Event%20Objectives.md>) — 2 stories
+- [The Vanished Gift](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014005_The%20Vanished%20Gift.md>) — 1 stories
+- [Catch the Culprit!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014006_Catch%20the%20Culprit%21.md>) — 1 stories
+- [A Shady Character](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014007_A%20Shady%20Character.md>) — 1 stories
+- [After Evil Santa!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014008_After%20Evil%20Santa%21.md>) — 1 stories
+- [All the Little Children](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014009_All%20the%20Little%20Children.md>) — 1 stories
+- [The Dark Saint](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014010_The%20Dark%20Saint.md>) — 2 stories
+- [That Santa Spirit](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4014011_That%20Santa%20Spirit.md>) — 1 stories
+- [Reality or VR?](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017001_Reality%20or%20VR_.md>) — 1 stories
+- [I've Decided!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017002_I%27ve%20Decided%21.md>) — 2 stories
+- [What We Can Do for Yui](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017003_What%20We%20Can%20Do%20for%20Yui.md>) — 1 stories
+- [More Quest Information!?](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017004_More%20Quest%20Information%21_.md>) — 1 stories
+- [Seeking the Blue Rainbow Crystal](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017005_Seeking%20the%20Blue%20Rainbow%20Crystal.md>) — 1 stories
+- [Seeking the Red Rainbow Crystal](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017006_Seeking%20the%20Red%20Rainbow%20Crystal.md>) — 1 stories
+- [To the Top of the World Tree](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017007_To%20the%20Top%20of%20the%20World%20Tree.md>) — 1 stories
+- [World Tree (Upper Stratum)](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017008_World%20Tree%20%28Upper%20Stratum%29.md>) — 1 stories
+- [Bivrost Gullinkambi](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017009_Bivrost%20Gullinkambi.md>) — 2 stories
+- [Familial Bonds](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4017010_Familial%20Bonds.md>) — 1 stories
+- [Savage New Lands](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019001_Savage%20New%20Lands.md>) — 1 stories
+- [Time to Investigate](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019002_Time%20to%20Investigate.md>) — 2 stories
+- [To Ryugu-jo](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019003_To%20Ryugu-jo.md>) — 1 stories
+- [A Princess's Recollection](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019004_A%20Princess%27s%20Recollection.md>) — 1 stories
+- [Back to the Surface](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019005_Back%20to%20the%20Surface.md>) — 2 stories
+- [Save Urashima](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019006_Save%20Urashima.md>) — 1 stories
+- [Fickle Feelings](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019007_Fickle%20Feelings.md>) — 1 stories
+- [Love's Lamentable Truth](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019008_Love%27s%20Lamentable%20Truth.md>) — 2 stories
+- [From the Island](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4019009_From%20the%20Island.md>) — 1 stories
+- [Valentine's Showdown](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021001_Valentine%27s%20Showdown.md>) — 1 stories
+- [Bittersweet Chocolate](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021002_Bittersweet%20Chocolate.md>) — 1 stories
+- [The Favorites](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021003_The%20Favorites.md>) — 1 stories
+- [Creeping Winds](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021004_Creeping%20Winds.md>) — 2 stories
+- [Asuna's Insight](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021005_Asuna%27s%20Insight.md>) — 1 stories
+- [The Returning Winds](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021006_The%20Returning%20Winds.md>) — 1 stories
+- [A Small Change](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021007_A%20Small%20Change.md>) — 1 stories
+- [I knew there was no chance.](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021008_I%20knew%20there%20was%20no%20chance..md>) — 1 stories
+- [Valentine's Showdown](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021009_Valentine%27s%20Showdown.md>) — 2 stories
+- [The Girls' Valentine's](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4021010_The%20Girls%27%20Valentine%27s.md>) — 1 stories
+- [SA:O](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025011_SA_O.md>) — 1 stories
+- [Wings](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025012_Wings.md>) — 1 stories
+- [Race Settings](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025013_Race%20Settings.md>) — 1 stories
+- [Fly Through the Sky](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025014_Fly%20Through%20the%20Sky.md>) — 1 stories
+- [The Power to Fly](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025015_The%20Power%20to%20Fly.md>) — 1 stories
+- [Only the Goddess Can Fly](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025016_Only%20the%20Goddess%20Can%20Fly.md>) — 1 stories
+- [Book of Magic](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025017_Book%20of%20Magic.md>) — 1 stories
+- [Reach for the Sky](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025018_Reach%20for%20the%20Sky.md>) — 1 stories
+- [Personal Desires](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025019_Personal%20Desires.md>) — 1 stories
+- [No Pain, No Gain!](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025020_No%20Pain%2C%20No%20Gain%21.md>) — 1 stories
+- [The Best Floating Spell Program](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025021_The%20Best%20Floating%20Spell%20Program.md>) — 1 stories
+- [Premiere & ALO](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4025022_Premiere%20%26%20ALO.md>) — 1 stories
+- [Bean Wars](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026001_Bean%20Wars.md>) — 1 stories
+- [Paint Arrows](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026002_Paint%20Arrows.md>) — 1 stories
+- [Race Settings](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026003_Race%20Settings.md>) — 1 stories
+- [Leadership](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026004_Leadership.md>) — 1 stories
+- [Where the Arrow Hits](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026005_Where%20the%20Arrow%20Hits.md>) — 1 stories
+- [Seasoned Sniper](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026006_Seasoned%20Sniper.md>) — 1 stories
+- [An Observer](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026007_An%20Observer.md>) — 1 stories
+- [Anti-Air Attack](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026008_Anti-Air%20Attack.md>) — 1 stories
+- [Advice](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026009_Advice.md>) — 1 stories
+- [Personal Fighting Style](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026010_Personal%20Fighting%20Style.md>) — 1 stories
+- [Conclusion](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026011_Conclusion.md>) — 1 stories
+- [The Expositor](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_4026012_The%20Expositor.md>) — 1 stories
+- [Character Introduction: Yuuki](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_7002001_Character%20Introduction_%20Yuuki.md>) — 1 stories
+- [Character Introduction: Asuna](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_7003001_Character%20Introduction_%20Asuna.md>) — 1 stories
+- [Character Introduction: Asuna](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_7004001_Character%20Introduction_%20Asuna.md>) — 1 stories
+- [Character Introduction: Yuuki](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_7005001_Character%20Introduction_%20Yuuki.md>) — 1 stories
+- [Character Introduction: Asuna](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_7006001_Character%20Introduction_%20Asuna.md>) — 1 stories
+- [Character Introduction: Yuuki](<%E6%B4%BB%E5%8A%A8%E4%B8%8E%E6%94%AF%E7%BA%BF%E5%89%A7%E6%83%85/quest_7007001_Character%20Introduction_%20Yuuki.md>) — 1 stories
+- [独立或未归类片段](<%E6%9C%AA%E5%BD%92%E7%B1%BB%E5%89%A7%E6%83%85/unclassified_%E7%8B%AC%E7%AB%8B%E6%88%96%E6%9C%AA%E5%BD%92%E7%B1%BB%E7%89%87%E6%AE%B5.md>) — 40 stories
+
+## Original text appendix
+
+Other decrypted table strings are kept below, including resource identifiers. Repeated strings within a table are listed once.
+
+- [active_skill](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/active_skill.md>) — 2987 strings
+- [adjust_token](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/adjust_token.md>) — 223 strings
+- [adventure_character_story](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/adventure_character_story.md>) — 2230 strings
+- [adventure_quest_story](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/adventure_quest_story.md>) — 2754 strings
+- [adventure_story_character_image](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/adventure_story_character_image.md>) — 878 strings
+- [adventure_story_character_position](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/adventure_story_character_position.md>) — 314 strings
+- [adventure_story_effect](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/adventure_story_effect.md>) — 27 strings
+- [adventure_story_section](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/adventure_story_section.md>) — 1 strings
+- [ai](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/ai.md>) — 12 strings
+- [area](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/area.md>) — 5 strings
+- [arrival_skill](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/arrival_skill.md>) — 70 strings
+- [asset_hash](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/asset_hash.md>) — 4804 strings
+- [background](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/background.md>) — 899 strings
+- [bank](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/bank.md>) — 182 strings
+- [banner](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/banner.md>) — 1234 strings
+- [battle_cutin](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/battle_cutin.md>) — 995 strings
+- [bgm](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/bgm.md>) — 69 strings
+- [bonus_mission_contents](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/bonus_mission_contents.md>) — 47 strings
+- [bullet](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/bullet.md>) — 1093 strings
+- [challenge_point_bonus](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/challenge_point_bonus.md>) — 24 strings
+- [chapter](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/chapter.md>) — 562 strings
+- [character](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/character.md>) — 4855 strings
+- [character_color](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/character_color.md>) — 36 strings
+- [character_hidden_animation_part](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/character_hidden_animation_part.md>) — 3 strings
+- [character_job](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/character_job.md>) — 36 strings
+- [character_type](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/character_type.md>) — 81 strings
+- [combo_buff_bonus](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/combo_buff_bonus.md>) — 1 strings
+- [daily_bonus_campaign](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/daily_bonus_campaign.md>) — 93 strings
+- [daily_mission](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/daily_mission.md>) — 6 strings
+- [diamond_package](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/diamond_package.md>) — 1416 strings
+- [effect](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/effect.md>) — 321 strings
+- [enemy_hidden_animation_part](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/enemy_hidden_animation_part.md>) — 3 strings
+- [equipment](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/equipment.md>) — 4054 strings
+- [event](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/event.md>) — 1729 strings
+- [event_floor_reward](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/event_floor_reward.md>) — 5 strings
+- [event_intruder](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/event_intruder.md>) — 11 strings
+- [event_quest_2](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/event_quest_2.md>) — 61 strings
+- [event_quest_group](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/event_quest_group.md>) — 15 strings
+- [event_tab_text](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/event_tab_text.md>) — 142 strings
+- [fairy_type](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/fairy_type.md>) — 20 strings
+- [fixed_message](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/fixed_message.md>) — 35 strings
+- [guild_background](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/guild_background.md>) — 23 strings
+- [guild_icon](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/guild_icon.md>) — 10 strings
+- [guild_landing](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/guild_landing.md>) — 4 strings
+- [guild_shop](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/guild_shop.md>) — 9 strings
+- [how_to_play](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/how_to_play.md>) — 227 strings
+- [item](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/item.md>) — 1427 strings
+- [item_type](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/item_type.md>) — 29 strings
+- [localization_error](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/localization_error.md>) — 230 strings
+- [localization_info](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/localization_info.md>) — 935 strings
+- [menu_other](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/menu_other.md>) — 4 strings
+- [mission](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/mission.md>) — 11358 strings
+- [mission_category](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/mission_category.md>) — 173 strings
+- [obstacle](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/obstacle.md>) — 24 strings
+- [passive_skill](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/passive_skill.md>) — 2687 strings
+- [quest](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/quest.md>) — 6050 strings
+- [quest_bonus_campaign](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/quest_bonus_campaign.md>) — 905 strings
+- [quest_condition](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/quest_condition.md>) — 38 strings
+- [quest_level](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/quest_level.md>) — 58 strings
+- [reason](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/reason.md>) — 138 strings
+- [reward_box](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/reward_box.md>) — 41 strings
+- [reward_box_content](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/reward_box_content.md>) — 330 strings
+- [reward_content](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/reward_content.md>) — 9610 strings
+- [se](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/se.md>) — 940 strings
+- [slot_skill](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/slot_skill.md>) — 1108 strings
+- [special_skill](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/special_skill.md>) — 5 strings
+- [tips_blacksmith](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/tips_blacksmith.md>) — 1 strings
+- [tips_character_lottery](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/tips_character_lottery.md>) — 1 strings
+- [tips_download](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/tips_download.md>) — 24 strings
+- [tips_equipment_lottery](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/tips_equipment_lottery.md>) — 1 strings
+- [tips_loading](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/tips_loading.md>) — 99 strings
+- [tips_quest](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/tips_quest.md>) — 57 strings
+- [title](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/title.md>) — 4327 strings
+- [title_mask_color](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/title_mask_color.md>) — 8 strings
+- [town_object](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/town_object.md>) — 2 strings
+- [town_object_button](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/town_object_button.md>) — 19 strings
+- [town_opening](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/town_opening.md>) — 10 strings
+- [tutorial_battle_cutin](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/tutorial_battle_cutin.md>) — 16 strings
+- [ui_file](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/ui_file.md>) — 460 strings
+- [ui_text](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/ui_text.md>) — 1803 strings
+- [unit](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/unit.md>) — 268 strings
+- [unit_animation_name](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/unit_animation_name.md>) — 99 strings
+- [voice](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/voice.md>) — 8552 strings
+- [world](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/world.md>) — 9 strings
+- [world_type](<%E5%85%B6%E4%BB%96%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC/world_type.md>) — 16 strings

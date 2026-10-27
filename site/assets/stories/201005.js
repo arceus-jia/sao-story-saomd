@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[201005]={"id":201005,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"201005:1:1","speaker":"Kirito","text":"Time to form a party!","pose":910010205,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"是时候组队了！"}]}]};

@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[202001]={"id":202001,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"202001:1:1","speaker":"Kirito","text":"Seems I finished an NPC's\nrequest during that last battle.","pose":910010205,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"上次战斗中我好像完成了NPC的委托。"}]}]};

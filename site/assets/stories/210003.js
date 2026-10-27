@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[210003]={"id":210003,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"210003:1:1","speaker":"Kirito","text":"I can drink it to earn a lot\nof EXP.","pose":910010407,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"喝了可以赚很多EXP。"}]}]};

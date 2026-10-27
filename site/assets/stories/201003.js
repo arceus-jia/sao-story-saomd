@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[201003]={"id":201003,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"201003:1:1","speaker":"Kirito","text":"Argo introduced me to a\nstrong player. I should form\na party with them.","pose":910010205,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"阿尔戈给我介绍了一个强大的玩家。我应该和他们一起组建一个聚会。"}]}]};

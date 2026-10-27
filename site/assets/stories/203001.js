@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[203001]={"id":203001,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"203001:1:1","speaker":"Kirito","text":"It's almost time to face the\nboss. I should unlock\nattributes beforehand.","pose":910010207,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"快要面对首领了。我应该提前解锁属性。"}]}]};

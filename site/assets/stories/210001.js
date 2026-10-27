@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[210001]={"id":210001,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"210001:1:1","speaker":"Kirito","text":"Sachi... I'll protect you\nand the others, no matter\nwhat.","pose":910010407,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"幸……无论如何，我都会保护你和其他人。"}]}]};

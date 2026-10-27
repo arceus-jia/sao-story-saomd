@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[207002]={"id":207002,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"207002:1:1","speaker":"Kirito","text":"My weapon is stronger!","pose":910010404,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"我的武器更强了！"}]}]};

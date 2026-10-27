@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[201007]={"id":201007,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"201007:1:1","speaker":"Kirito","text":"Let's head to Tolbana.\nThat's where the boss raid\nmeeting's being held.","pose":910010205,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"我们去托尔巴纳吧。这就是首领攻略战会议的召开地点。"}]}]};

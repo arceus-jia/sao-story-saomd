@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[201008]={"id":201008,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"201008:1:1","speaker":"Kirito","text":"Alright, let's head off!","pose":910010207,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"好了，我们出发吧！"}]}]};

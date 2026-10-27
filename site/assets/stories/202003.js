@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[202003]={"id":202003,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"202003:1:1","speaker":"Kirito","text":"Rewards for clearing quests\nseem to come to the Gift Box.","pose":910010205,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"通关任务的奖励好像是到了礼盒里。"}]}]};

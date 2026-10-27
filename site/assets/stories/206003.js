@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[206003]={"id":206003,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"206003:1:1","speaker":"Kirito","text":"I've found a strong weapon.\nI can't forget to equip it!","pose":910010405,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"我找到了强大的武器。我不能忘记装备它！"}]}]};

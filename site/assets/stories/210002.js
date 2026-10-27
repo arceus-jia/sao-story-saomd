@@ -1,0 +1,1 @@
+window.SAOMD_STORIES[210002]={"id":210002,"branches":[],"frames":[{"id":1,"order":1,"actions":[{"uid":"210002:1:1","speaker":"Kirito","text":"There's a type of item\ncalled an EXP Potion.","pose":910010407,"background":"","item":"","illustration":"","speaker_zh":"桐人","text_zh":"有一种物品叫做经验药水。"}]}]};
